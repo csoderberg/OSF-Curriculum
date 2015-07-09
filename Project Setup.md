@@ -28,11 +28,20 @@ So, first things first, we need to go to the OSF and create our first project. A
 
 * Person A create a project for the group
 
-Since we don’t have any projects yet, and we’re only going to be ‘conducting’ one experiment. Lets just create a project for that one experiment. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. *(insert screenshot here)* You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project. 
+Since we don’t have any projects yet, and we’re only going to be ‘conducting’ one experiment. Lets just create a project for that one experiment. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. **(insert screenshot here)** You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project. 
 
 	
 * Orient attendees to the project overview page (title, wiki, file tree, privacy setting, GUID)
 	* describe and point out main features/state of project upon creation
+
+Alright, so if you’re a PI, you should now be seeing something that looks similar to my screen. Before we start adding content, I just want to take a minute to orient everyone to how a project looks when it’s first started. If you aren’t a PI, you can follow along on my screen for a second. All projects start out with this same screen. The ‘wiki’ is a collaborative editing space which you can use to list information about the project, things like READMEs, abstracts, research questions, outlines, etc. The file tree is how you upload files to the system, and you can upload basically any time of file that you want, everything from CSVs to word documents, to power points, to image and video files. This ‘component’ section is how you add additional structure and nesting to your project, we’ll talk more about that later, and then there is the citation widget, which shows you the automatically generated citation for the project.
+
+
+At the top of the screen, you’ll notice a little 5 letter string at the end of the osf.io url. This entire address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will point back to it unless the project is deleted. Grad students and RAs, if you could type in the URL for your groups project in your browser window, try to go to the project, and see what happens?
+
+Who can tell me what happened? [get audience feebdack]. Right, if you aren’t a PI, you’re being told that you don’t have access to the project. That’s because all project on the OSF are set to ‘private’ as a default. Which means that only people who the admins of the project have added as ‘contributors’ have access to the project and can see into it. Right now, the PI is the only contributor on the project. 
+
+	
 		* Project page has GUID that you can use to direct others to the project
 			* have person B try the link, see that they can’t see it
 		* Project default to privates so only collaborators can see it
