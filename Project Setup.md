@@ -11,9 +11,13 @@
 
 ## Section Outline
 * Set up study example & break room into ‘collaborative groups’ for project creation
-	* Example should be pretty simple dataset that is easily accessible to all
-		* perhaps the ‘gapminder’ data set that is used by other groups (e.g. SWC) and has some country level data
-			* cut down dataset and materials to work for our needs
+
+For most of the workshop, you’ll all be working in groups of three, pretending to be little research groups with a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent small scale research project from start to finish. To help with this, and because people are from a variety of different scientific disciplines here, we’re going to be using a set of example materials so everyone will be working with the same materials. These materials are from the 2012 Annual National Election Survey in the US.
+
+I emailed all the materials to you this morning. If you open up the filed called, ‘Questionnaire’, you’ll notice that there are about 12 different questions that were asked of respondents (this is a very small subsample of the questions from the actual survey). So, over the course of the workshop, what is going to happen is that each group will decide amongst themselves, from the available materials, what there research question will be, the variables they want to use, the analyses they want to do, how they want to build and structure there project, and how open they would like the project to be at the end. 
+
+To start off, lets count off in 3s. These will be your groups. All the 1s will be the PIs, all the 2s with be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, it’s not going to have a huge impact, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
+  
 	* 3 person groups, each working on creating one OSF project for the three of them
 * Describe what a ‘project’ on the OSF can be and create one for example
 	* Project can be a: Lab group, organization, grant, line of research, individual study;
