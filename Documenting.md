@@ -27,6 +27,11 @@ This will take you to a page where you will register your project. There are a f
 
 
 	* show and discuss embargo feature
+
+Another option you have is whether you want to make the registration public immediately, or place an embargo on the registration. If you place an embargo on the registration, this means that the project will be registered right now, but the registration will not be make public until some date up to 4 years in the future you specify. Why might you want to do this? If you are doing a preregistration, and your study hasn’t happened yet, you may want to embargo the registration so that participants and RAs cannot discover what you’re hypotheses are in order to preserve blinding in your study. Some researchers are also afraid of being ‘scooped’ and so they may not want to release their study protocol before the study is completed. If you are doing a a registration after a study has finished, you may also need the embargo feature because of the embargo policy of the journal you are submitting to, perhaps. All these are valid reasons. 
+
+If you choose the embargo feature, an email will be sent to all the administrators on the project, asking if they want to cancel the registration. If any of the admins cancels the registration within 48 hours, the registration does not occur. If they all either approve it, or ignore the email, the registration goes through and the embargo period is set (this cannot be altered after the fact).
+
 	* register project
 	* have person B on my team cancel the registration
 	* ask if anyone followed along and make sure they’re registrations were canceld
