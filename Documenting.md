@@ -33,6 +33,9 @@ Another option you have is whether you want to make the registration public imme
 If you choose the embargo feature, an email will be sent to all the administrators on the project, asking if they want to cancel the registration. If any of the admins cancels the registration within 48 hours, the registration does not occur. If they all either approve it, or ignore the email, the registration goes through and the embargo period is set (this cannot be altered after the fact).
 
 	* register project
+
+Once the project is registered it will look like this [screenshot]. A few things to notice about the registration. Firstly, the registration GUID is different from the projects, so you can easily use the links to send people to either the project, or the registration, whichever is more appropriate. This is a picture of a registration that was made public immediately. You’ll notice that you can request a DOI/ARK ID for the registration. Especially if you are registering at the end of a project, the journal you a submitting to may require a DOI, and so registering the project is the way to get a DOI for the contents. 
+
 	* have person B on my team cancel the registration
 	* ask if anyone followed along and make sure they’re registrations were canceld
 * Person A uploads initial analysis script, Person B uploads data dictionary, Person C uploads data file(s)
