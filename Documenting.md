@@ -11,6 +11,9 @@
 # Section Outline
 * A run through registration feature (warn participants that they should not follow along with this part)
 	* discuss what a registration does
+
+
+
 	* discuss it’s use cases
 	* show the steps to register a project
 	* show and discuss embargo feature
