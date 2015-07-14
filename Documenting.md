@@ -49,6 +49,8 @@ So now that we’ve ‘registered’ our project, we can start the process of ac
 
 So, take 5-10 minutes to work on creating these files and uploading them to your project. One person in your group should upload the data dictionary, another should upload the datasets, and another should upload the analysis documentation. You can upload files to the OSF in two different ways. The first is by simply dragging and dropping a file into the file tree, if the file is easily accessible on your computer. Another is to go into the files tab, click the ‘upload’ icon next to the component you want to upload your data to, and then this will bring up a widget to allow you to search through your computer to find the file you would like to upload.
 
-
+* Showing version control
 	* Person B edits person A’s analysis script so it includes comments
 	* Person C edits the wiki to update is based on the analyses that were done
+
+Alright, so now you have the static version of all these files, but in real research, things often change over time. We need a way to easily track those changes. We talked at the beginning how version control is important and how it often goes off the rails, making it really difficult to determine which files were actually used and to recreate the protocol and/or analyses. There are some programming languages out there that are specifically build for version control, many of you may have heard of Git and Github, and those are great, but they can provide a barrier to adoption of good version control methods for people who either don’t have the time, motivation, or ‘ability’ to learn how to use them. So, the OSF has built in basic version control features to help lower that barrier. 
