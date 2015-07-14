@@ -36,8 +36,19 @@ If you choose the embargo feature, an email will be sent to all the administrato
 
 Once the project is registered it will look like this [screenshot]. A few things to notice about the registration. Firstly, the registration GUID is different from the projects, so you can easily use the links to send people to either the project, or the registration, whichever is more appropriate. This is a picture of a registration that was made public immediately. You’ll notice that you can request a DOI/ARK ID for the registration. Especially if you are registering at the end of a project, the journal you a submitting to may require a DOI, and so registering the project is the way to get a DOI for the contents. 
 
-	* have person B on my team cancel the registration
-	* ask if anyone followed along and make sure they’re registrations were canceld
+
 * Person A uploads initial analysis script, Person B uploads data dictionary, Person C uploads data file(s)
+
+So now that we’ve ‘registered’ our project, we can start the process of actually working on it. So, before, I had you all develop research questions. So, now, I’m going to give you a couple of minutes to actually work on creating materials to upload to the site. You’ll need a few things:
+
+* Some documentation of the analyses you did. What exactly this is will depend on what program you are using to run your analyses. 
+
+* A data file or data files. Think this through carefully. You have a few choices you can make. The first choice is what do to with the de-identified dataset. Additionally, if you are only using a subset of variables in your analyses, how do you want to upload your data? Remember that different components have differential privacy settings. There’s no real right or wrong way to do this, but at the end we’ll talk about the different choices people made and the pros and cons of the different possibilities. 
+
+* A data dictionary.
+
+So, take 5-10 minutes to work on creating these files and uploading them to your project. One person in your group should upload the data dictionary, another should upload the datasets, and another should upload the analysis documentation. You can upload files to the OSF in two different ways. The first is by simply dragging and dropping a file into the file tree, if the file is easily accessible on your computer. Another is to go into the files tab, click the ‘upload’ icon next to the component you want to upload your data to, and then this will bring up a widget to allow you to search through your computer to find the file you would like to upload.
+
+
 	* Person B edits person A’s analysis script so it includes comments
 	* Person C edits the wiki to update is based on the analyses that were done
