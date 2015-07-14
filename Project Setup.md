@@ -54,9 +54,12 @@ Who can tell me what happened? [get audience feebdack]. Right, if you aren’t a
 
 Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the ‘sharing’ tab and click on that, this is how you can give access to additional contributors. Go in and search of the names of your GS and RA, and click the + icon to add them over to the project. You’ll notice that each person is given a permission setting for access to the project. There are three possible settings, ‘admin’, ‘read + write’, and ‘read’. Read access means the contributor can see into the project and can download any files they want, but they will not be able to add any files or modify any content. ‘Read + Write’ access has additional capabilities to add and modify files, but they can’t change any of the settings on the project (so for example they can’t add new contributors or change the privacy settings on the project). An administrator can do anything to the project and files. So, go ahead and give your GS and RA whatever permission settings you want. 
 
-* Commenting functionality
-		* have participants discuss using comments what they want their research question to be
 * Create a wiki
+
+Now that you have a project and everyone has access, the first thing to do is start to write down a bit of information about the project. This will often start out pretty loose, depending on how exploratory vs. confirmatory the study is, and over time turn into something more detailed like an abstract and/or a README file of the project. On the OSF, a good place to put this type of information is in the wiki. The wiki is a real time collaborative editor, so your whole team can work on it at once. It also can be formatted using markdown. You get into the wiki by clicking on the widget, and then click on the ‘edit’ button in the upper right to open up the editor. 
+
+Lets have you all take a minute to set up a wiki for the project. So, collaborative set up a wiki that includes the research questions you’re interested based on the data you have, and any hypotheses you might have about what you will see.
+
 	* Person B starts, person A & C add content 
 		* research question & hypothesis to start out with
 * Add structure to the project
