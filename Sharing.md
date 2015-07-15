@@ -20,7 +20,7 @@
 	* reproducibility
 * Have one group member make some part or whole of the project public
 
-
+So, as we mentioned before, everything on the OSF defaults to private, unless you choose to make parts or all of a particular project public. Now that we’re finished with our study, we need to decide how much we want to make public. You can do this by clicking on the ‘public’ button at the top of the project. Now one important thing to think about before you make anything public is, ‘is there anything in this component that I can’t make public for legal or ethical reasons?’ That might include materials that you used in your project that are perhaps copyrighted material that you can’t openly share, or data-files that are not anonymous and so your IRB has told you that you can only make public the anonymous dataset. So, we’re now going to have you discuss in groups what parts of your project you want to make public and then go ahead and make those sections public. If you have to make some changes to the organization of your project to allow you to make public and keep private the specific files that you need or want to, that’s fine.
 
 
 * Show search on OSF and search on SHARE
