@@ -26,7 +26,11 @@ However, low levels of reproducibility also have an impact closer to home, speci
 
 
 * What is leading to low levels of reproducibility?
+
 	* Current workflow non-transparency
 	* Current lack of workflow documentation
 		* issues that can arrive with lack of transparency at all points
+
+There are a number of contributing factors, but one of the big issues is with a lack of documentation and transparency. Here is an abstract representation of the research workflow. How it generally works now, if I’m not in your lab the only part of this process that I can see if the finally step, all I see is what is in the published report. And even if I am in your lab, after about 6 months, I probably won’t remember what happened at these different steps, so all I’lll be left with is the published report. This creates a problem because if something doesn’t get pubcliehs, it basically gets lost, and even if something doesn’t get published, any details that aren’t in the publication are quickly lost. Additioanally, research generally evolves a lot across this process, and the publication generally onlygive the final version, so this evolution is also lost. So, basically, the point is that there is a lot of information loss because of the lack of transparency and documentation of final products and of the lifecycle of projects. 
+
 	* Show a real world example of ‘typical’ workflow with really bad organization
