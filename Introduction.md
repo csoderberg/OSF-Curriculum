@@ -8,7 +8,7 @@
 ## Section Outline
 * Discuss evidence for low levels of reproducibilty
 
-Over the past few years there has been a growing concern that many of the findings in the published literature may now replicate. 
+Over the past few years there has been a growing concern that many of the findings in the published literature may now replicate. There is evidence from a broad range of fields, including cancer biology, psychology, and political science, that the published literature may not be as reliable as we would like to believe. Now, in the last few years there have been a few very high profile fraud cases, but what I’m talking about here is not fraud. What I’m talking about is research practices that have become standard practice in many fields leading to scientists producing research that is harder to reproduce and replicate.
 
 * What is reproducibility?
 
