@@ -20,7 +20,10 @@ Now, all these types of reproducibility are important and all have their challen
 
 * Why is this a problem (for individual researchers, for a lab, for others)
 
-Low levels of reproducibility are a problem for a number of reasons. 
+Low levels of reproducibility are a problem for a number of reasons. One of the ones you’ve probably heard before is that it’s a problem because if findings don’t replicate, that means we may not know as much as we think we know, and if we can’t reproduce the experiments, we can’t even check if the results will replicate, so it makes it difficult to check and shore up our knowledge. 
+
+However, low levels of reproducibility also have an impact closer to home, specifically, it can make work in your own lab less efficient. If you think how transient labs are, often one graduate student starts something, leaves, and then another graduate student is trying to pick up their project or build an extend a project done by someone else. Or perhaps you submit a paper, and 6 months later an editor asks you for new analyses and you have to go and find your data and analysis findings again. Both of these scenarios are contingent on knowing where all your stuff is, and a large amount of either transfer of knowledge or remembering of knowledge, which in general we don’t do well right now. This means that it will be hard to replicate your own work, which can lead to unneccsaring time and resources being wasted. 
+
 
 * What is leading to low levels of reproducibility?
 	* Current workflow non-transparency
