@@ -28,7 +28,9 @@ So, first things first, we need to go to the OSF and create our first project. A
 
 * Person A create a project for the group
 
-Since we don’t have any projects yet, and we’re only going to be ‘conducting’ one experiment. Lets just create a project for that one experiment. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. **(insert screenshot here)** You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project. 
+Since we don’t have any projects yet, and we’re only going to be ‘conducting’ one experiment. Lets just create a project for that one experiment. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. **(insert screenshot here)** You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project:
+
+![Creating a project](Project_figs/creating_project.png)
 
 	
 * Orient attendees to the project overview page (title, wiki, file tree, privacy setting, GUID)
