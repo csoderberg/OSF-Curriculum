@@ -111,9 +111,14 @@ You can also nest components within other components if you need to create even 
 
 Folder on the other hand are a little bit different. A folder is literally just a way to group a set of files, nothing more. So, if we click on the OSF storage icon you’ll notice that a ‘create folder’ button will appear. 
 
-![Creating a folder](Project_figs/creating_folder.png
+![Creating a folder](Project_figs/creating_folder1.png)
 
-If we do this, a folder will appear which he can then name whatever we want. However, if you click on the folder, it will just expand; you won’t be taken into the folder and it doesn’t have a wiki or it’s own access settings; the access settings are the same as the project/component it lives within. So, folders are just about organizing files together, while components are good for setting up large sections of a project.
+
+If we do this, a folder will appear which he can then name whatever we want. 
+
+![Creating a folder](Project_figs/creating_folder2.png)
+
+However, if you click on the folder, it will just expand; you won’t be taken into the folder and it doesn’t have a wiki or it’s own access settings; the access settings are the same as the project/component it lives within. So, folders are just about organizing files together, while components are good for setting up large sections of a project.
 
 ![Resulting project structure](Project_figs/project_structure.png)  
 
