@@ -125,6 +125,3 @@ However, if you click on the folder, it will just expand; you won’t be taken i
 	* Have participants collectively create structure for their project however they like
 
 Now that I’ve explained the difference between components and filers, I’ll give you a bit of time to set up some initial structure for your project. You can set it up however you want, there isn’t necessarily a right or wrong answer. Also, don’t worry, you can always move things if you initially set it up in one way and your realize that it would be better to set it up in another way later on. Just think through what are the major categories of file types you’ll have, and whether you might want to have different contributors or public vs. private access setting for them to determine whether you want to set them up as folders or components.
-
-* Have someone connect and add-on (github or dropbox)
-	* other participants make edits to content in those add-ons
