@@ -7,7 +7,6 @@
 	* Add components to a project
 * Understand how to set up a centralizer location for project storage/management
 	* Add collaborators to project
-	* Connect an add-on to the OSF (github)
 
 ## Section Outline
 * Set up study example & break room into ‘collaborative groups’ for project creation
