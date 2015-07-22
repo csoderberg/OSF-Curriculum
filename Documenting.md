@@ -8,51 +8,42 @@
 	* Creating Registrations
 	* GUIDs/DOIs
 
-# Section Outline
-* A run through registration feature (warn participants that they should not follow along with this part)
-	* discuss what a registration does
+## Registrations
 
-A registration creates a frozen snapshot of a project, or section of a project, that can never be deleted or changed. So basically, it’s a permanent, read-only copy of that part of the project.
+So I mentioned that part of the point of starting to document our research at the very beginning is so that we can track how the project changes across it’s lifecycle. This whole process is valuable, but there are also specific points in a projects life that may be particularly important and that we may want to freeze and always be able to go back to. For example, what the project looked like just before we started data collection (often called a pre-registration), or what the project looked like when it was accepted for publication are two points that we may want to easily be able to get back to, or easily share with others.
 
-	* discuss it’s use cases
+One way to keep track of these important points is to create `registrations`. A registration creates a frozen snapshot of a project, or section of a project, that can never be deleted or changed. So basically, it’s a permanent, read-only copy of that part of the project.
 
-A registration is a way to mark important points in the life of the project so you, and perhaps others, can easily go back and see what the project looked like at that point in time. Two particularly important points in a projects life that researchers may often want to register are the point right before data collection/analysis (often referred to as a pre-registation) and when a project has been completed and you are ready to share it with others, either through a publication and/or by openly sharing the data.
+I am going to show how you go about registering a project. Do **not** follow along with this section, as registrations are not reversible. 
 
-	* show the steps to register a project
-
-I am going to show how you go about registering a project. Do **not** follow along with this section, as registrations are not reversible. The first thing you’ll need to do is click on the ‘registration’ tab on the top of the project. 
+The first thing is to click on the ‘registration’ tab on the top of the project. 
 
 ![Starting the registration process](Document_figs/make_registration.png)
 
-Note that the registration will contain the component you are currently in, and everything downstream of that component (i.e. everything nested within the component you’re currently in). 
+Note that this will register the part of the project you’re currently in, and all components and folders nested within this part of the project. 
 
-This will take you to a page where you will register your project. There are a few different ‘registration templates’ that you can choose from. 
+This will take you to a page where you will register your project. There are a few different ‘registration templates’ that you can choose from that will allow you to fill in some information about the registration you are making.
 
 ![Starting the registration process](Document_figs/registration_templates.png)
 
 If you are unsure, just choose the ‘Open-ended Registration’ and this will give you the ability to provide some information about why you are registering the project. This is important, as you can have multiple registrations of a project and this section will allow you to tell them apart. 
 
-
-
-	* show and discuss embargo feature
-
-Another option you have is whether you want to make the registration public immediately, or place an embargo on the registration. If you place an embargo on the registration, this means that the project will be registered right now, but the registration will not be make public until some date up to 4 years in the future you specify. 
+There are two options for how you want to release your registrations. You can either make them public immediately, which means anyone will be able to see them, or you can place an embargo on the registration. If you choose to embargo, the project will be immediately registered, but the registration will not be made public until after the embargo date that you specify. You can embargo registrations for up to four years, but after that they must become public.
 
 ![Emargoing a registration](Document_figs/embargo_option.png)
 
-Why might you want to do this? If you are doing a preregistration, and your study hasn’t happened yet, you may want to embargo the registration so that participants and RAs cannot discover what you’re hypotheses are in order to preserve blinding in your study. Some researchers are also afraid of being ‘scooped’ and so they may not want to release their study protocol before the study is completed. If you are doing a a registration after a study has finished, you may also need the embargo feature because of the embargo policy of the journal you are submitting to, perhaps. All these are valid reasons. 
+Why might you want to set an embargo date? If you are doing a preregistration, and your study hasn’t happened yet, you may want to embargo the registration so that participants and/or RAs cannot discover what you’re hypotheses are in order to preserve blinding in your study. Some researchers are also afraid of being ‘scooped’ and so they may not want to release their study protocol before the study is completed. If you are doing a a registration after a study has finished, you may also need the embargo feature because the journal you submitted to may have an embargo period. All these are valid reasons, which is why we give the option of either embargoes or immediate public release for registrations.
 
-If you choose the embargo feature, an email will be sent to all the administrators on the project, asking if they want to cancel the registration. If any of the admins cancels the registration within 48 hours, the registration does not occur. If they all either approve it, or ignore the email, the registration goes through and the embargo period is set (this cannot be altered after the fact).
+If you choose the embargo feature, an email will be sent to all the administrators on the project, asking if they want to cancel the registration, since you can’t undo registrations or change embargo dates after the fact. If any of the admins cancels the registration within 48 hours, the registration does not occur. If they all either approve it, or ignore the email, the registration goes through and the embargo period is set.
 
 ![Embargo registration email for approval/cancelation](Document_figs/registration_cancel_email.png)
 
-	* register project
 
-Once the project is registered (either because you chose the immediate registration or because the embargo end data has passed) it will look like this. 
+Once the project is registered it will look like this. 
 
 ![Registered project](Document_figs/public_registration.png)
 
-A few things to notice about the registration. Firstly, the registration GUID is different from the projects, so you can easily use the links to send people to either the project, or the registration, whichever is more appropriate. This is a picture of a registration that was made public immediately. You’ll notice that you can request a DOI/ARK ID for the registration. Especially if you are registering at the end of a project, the journal you a submitting to may require a DOI, and so registering the project is the way to get a DOI for the contents. 
+A few things to notice about the registration. Firstly, the registration GUID is different from the projects, so you can easily use the links to send people to either the project, or the registration, whichever is more appropriate. For this registration, I chose to make it public immediately. Just like the actual project and registration have different GUIDs, they also have different privacy settings. So, even though the registration is public, the actual project is still private, and I can make changes to that project which non-contributors will not be able to see. Since this is a public registration, you’ll notice that you can request a DOI/ARK ID for the registration. Especially if you are registering at the end of a project, the journal you a submitting to may require a DOI, and so registering the project is the way to get a DOI for the contents. For embargoed registrations, once the embargo ends and they become public, you can obtain a DOI for them.
 
 
 * Person A uploads initial analysis script, Person B uploads data dictionary, Person C uploads data file(s)
