@@ -6,9 +6,7 @@
 * Understand use and importance of subfolder/subcomponent organization
 
 
-## Section Outline
-
-### Group Set-up
+## Group Set-up
 For most of the workshop, you’ll be working in groups of three to simulate a research project with a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent research project from start to finish in order to learn good project management practices and use of the OSF. So, to start off, lets count off in 3s. If you don’t have a computer with you, say ’skip’ and look on with one of the groups on either side of you. These will be your groups. All the 1s will be the PIs, all the 2s with be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, it’s not going to have a huge impact on what you do today, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
 
 Hopefully you all had a chance to skim over some of the files I emailed to you yesterday. These are a very small subsection of materials from the 2012 Annual National Election Survey in the US, which we’ll be using as our example materials for the workshop today. Don’t worry, you won’t need to know anything about politics or US elections; it’s just a dataset that can be easily understood no matter what your scientific discipline or level of experience, so it should allow us to all collaborate even if you’re in a group with people from very different scientific fields. 
@@ -48,21 +46,24 @@ At the top of the screen, you’ll notice a little 5 letter string at the end of
 If you are a acting as a graduate student or RA in your group, go ahead and type in the GUID of the project your PI created. What happens? 
 
 
-If you aren’t a PI, you should be seeing a screen telling you that you don’t have access to the project. That’s because all project on the OSF are set to ‘private’ as a default. Which means that only people who the admins of the project have added as ‘contributors’ have access to the project and can see into it. Right now, the PI is the only contributor on the project. 
-
-Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the ‘sharing’ tab and click on that, this is how you can give access to additional contributors. 
+If you aren’t a PI, you should be seeing a screen telling you that you don’t have access to the project. That’s because all project on the OSF are set to `private` as a default. This means that only people who have been added as `contributors` to the project have access to it and can see and/or edit it. Right now, the PI is the only contributor on the project because they created it.  Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the `sharing` tab and click on that, this is how you can add people as contributors.
 
 ![Sharing tab](Project_figs/Sharing_tab.png)
 
-Go in and search of the names of your GS and RA, and click the + icon to add them over to the project. 
+I can search for people who I want to add as collaborators, then click the + icon to add them to the project. 
 
 ![Searching for Contributors](Project_figs/contributor_search.png)
 
-You’ll notice that each person is given a permission setting for access to the project. There are three possible settings, ‘admin’, ‘read + write’, and ‘read’. Read access means the contributor can see into the project and can download any files they want, but they will not be able to add any files or modify any content. ‘Read + Write’ access has additional capabilities to add and modify files, but they can’t change any of the settings on the project (so for example they can’t add new contributors or change the privacy settings on the project). An administrator can do anything to the project and files. So, go ahead and give your GS and RA whatever permission settings you want.
+You’ll notice that each person is given a permission setting for access to the project. There are three possible settings, `admin`, `read + write`, and `read`. Read access means the contributor can see into the project and can download any files they want, but they will not be able to add any files or modify any content. Contributors with Read + Write access have additional capabilities to add and modify files, but they can’t change any of the settings on the project (so for example they can’t add new contributors or change the privacy settings on the project). An administrator can do anything to the project and files. I can assign different permission settings to different contributors if I need to.
 
 ![Altering permission settings for contributors](Project_figs/contributor_permissions.png) 
 
-If we now go back to the project overview page, you’ll notice that now all three people are listed as contributors on the project, and that they are all now also listed in the auto generated citation for the project.
+### Activity
+PIs, go ahead and add your graduate student and RA collaborators to your project. You can decide what level of access you want to give them, but keep in mind that later on both are going to need the ability to upload files.
+
+Grad students and RAs, if you try the GUID again, you should now be able to see the project page. Is everyone seeing their project page?
+
+If we now go back to the project overview page, you’ll notice that all three people are listed as contributors on the project, and that they are all now also listed in the auto generated citation for the project.
 
 ![How citation info has changed](Project_figs/contributor_citation.png)
 
