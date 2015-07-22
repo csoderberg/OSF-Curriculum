@@ -17,15 +17,19 @@ Hopefully you all had a chance to skim over some of the files I emailed to you y
 I emailed all the materials to you this morning. If you open up the filed called, ‘Questionnaire’, you’ll notice that there are about 12 different questions that were asked of respondents (this is a very small subsample of the questions from the actual survey). So, over the course of the workshop, what is going to happen is that each group will decide amongst themselves, from the available materials, what there research question will be, the variables they want to use, the analyses they want to do, how they want to build and structure there project, and how open they would like the project to be at the end. 
 
 
-##Creating a project
+## Creating a project
 
-So, first things first, we need to go to the OSF and create our first project. A ‘project’ on the site can be anything: a lab group, an organization, a grant, a line of research, and individual experiment, etc. When you initially create a ‘project’, basically you can think about this as just the top level of a nested structure. You’ll be able to nest as many things under it later as you like. 
+We talked before about the problems that can arise when we either don’t document work, or we try and go and back document work once a study is accepted for publication. We also talked about the challenges and problems that can arise when we are trying to collaborate with multiple people. So, to try and begin to solve some of these problems, we’re going to set up a collaborate space for our research study using the OSF to help document and organize our research.
 
-* Person A create a project for the group
+To start, we need to go to osf.io. If you don’t have an account already go ahead and take a minute to create one, or sign-in if you already have an account. 
 
-Since we don’t have any projects yet, and we’re only going to be ‘conducting’ one experiment. Lets just create a project for that one experiment. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project:
+Now that you’re all signed in, you should be all be seeing the `project dashboard`. This is where you start each new `project`. A `project` on the site can be anything: a lab group, an organization, a grant, a line of research, ann individual experiment, etc. Basically, you can think about this as just the top level of a nested structure. You’ll be able to nest as many things under it later as you like. So different researchers and different labs will have different preferences about how high level they like initial projects to be. 
+
+### Activity
+Since we don’t have any projects yet, and we’re only going to be working on one research project, lets just create a project for that one study. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project:
 
 ![Creating a project](Project_figs/creating_project.png)
+
 
 	
 * Orient attendees to the project overview page (title, wiki, file tree, privacy setting, GUID)
