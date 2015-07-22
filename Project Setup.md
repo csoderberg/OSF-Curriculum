@@ -1,29 +1,23 @@
 # Setting up a collaborative space
 
 ## Learning objectives
-* Understand the purpose and use of the wiki
-	* Create initial project description (wiki)
-* Understand use and importance of subfolder/subcomponent organization
-	* Add components to a project
 * Understand how to set up a centralizer location for project storage/management
-	* Add collaborators to project
+* Understand the purpose and use of the wiki
+* Understand use and importance of subfolder/subcomponent organization
+
 
 ## Section Outline
-* Set up study example & break room into ‘collaborative groups’ for project creation
-	* 3 person groups, each working on creating one OSF project for the three of them
 
-For most of the workshop, you’ll all be working in groups of three, pretending to be little research groups with a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent small scale research project from start to finish. To help with this, and because people are from a variety of different scientific disciplines here, we’re going to be using a set of example materials so everyone will be working with the same materials. These materials are from the 2012 Annual National Election Survey in the US.
+### Group Set-up
+For most of the workshop, you’ll be working in groups of three to simulate a research project with a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent research project from start to finish in order to learn good project management practices and use of the OSF. So, to start off, lets count off in 3s. If you don’t have a computer with you, say ’skip’ and look on with one of the groups on either side of you. These will be your groups. All the 1s will be the PIs, all the 2s with be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, it’s not going to have a huge impact on what you do today, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
+
+Hopefully you all had a chance to skim over some of the files I emailed to you yesterday. These are a very small subsection of materials from the 2012 Annual National Election Survey in the US, which we’ll be using as our example materials for the workshop today. Don’t worry, you won’t need to know anything about politics or US elections; it’s just a dataset that can be easily understood no matter what your scientific discipline or level of experience, so it should allow us to all collaborate even if you’re in a group with people from very different scientific fields. 
+
 
 I emailed all the materials to you this morning. If you open up the filed called, ‘Questionnaire’, you’ll notice that there are about 12 different questions that were asked of respondents (this is a very small subsample of the questions from the actual survey). So, over the course of the workshop, what is going to happen is that each group will decide amongst themselves, from the available materials, what there research question will be, the variables they want to use, the analyses they want to do, how they want to build and structure there project, and how open they would like the project to be at the end. 
 
-To start off, lets count off in 3s. If you don’t have a computer with you, say ’skip’ and look on with one of the groups on either side of you. These will be your groups. All the 1s will be the PIs, all the 2s with be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, it’s not going to have a huge impact, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
-  
 
 ##Creating a project
-	
-* Describe what a ‘project’ on the OSF can be and create one for example
-	* Project can be a: Lab group, organization, grant, line of research, individual study;
-		* it’s basically the top level of nesting, you can nest as many things under it as you like
 
 So, first things first, we need to go to the OSF and create our first project. A ‘project’ on the site can be anything: a lab group, an organization, a grant, a line of research, and individual experiment, etc. When you initially create a ‘project’, basically you can think about this as just the top level of a nested structure. You’ll be able to nest as many things under it later as you like. 
 
