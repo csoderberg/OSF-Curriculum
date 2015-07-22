@@ -71,20 +71,16 @@ If for some reason you wanted to give someone access to the project but did not 
 
 ## Creating a wiki
 
-Now that you have a project and everyone has access, the first thing to do is start to write down a bit of information about the project. This will often start out pretty loose, depending on how exploratory vs. confirmatory the study is, and over time turn into something more detailed like an abstract and/or a README file of the project. On the OSF, a good place to put this type of information is in the wiki. The wiki is a real time collaborative editor, so your whole team can work on it at once. It also can be formatted using markdown. You get into the wiki by clicking on the widget, and then click on the ‘edit’ button in the upper right to open up the editor. 
+Now that you have a project and everyone has access, the first thing to do is start to write down a bit of information about the project, like why we’re doing the project, what our initial research question is, etc. By documenting this upfront, it will be very easy for us to always go back and see how the project started out, as it evolves over the course of the research lifecycle. Depending on how exploratory or confirmatory the study is, this section may start our pretty loose or very detailed. On the OSF, a good place to put this type of information is in the wiki. The wiki is a real time collaborative editor, so your whole team can work on it at once. It also can be formatted using markdown if you want to get fancy. You get into the wiki by clicking on the widget, and then click on the ‘edit’ button in the upper right to open up the editor. 
 
-
-	* Person B starts, person A & C add content 
-		* research question & hypothesis to start out with
-
-Lets have you all take a minute to set up a wiki for the project. So, collaborative set up a wiki that includes the research questions you’re interested based on the data you have, and any hypotheses you might have about what you will see.
 
 ![Adding wiki content](Project_figs/wiki_editing.png)
 
-## Adding organizational structure 
+### Activity
+Lets have you all take a minute to set up a wiki for the project. So, take a few minutes to discuss amongst your group what you are interested in looking at in the ANES dataset I gave you, then collaboratively enter your research question and hypotheses, if you have them, into the wiki. 
 
-	* Explain components vs. folders and demo making one versus the other
-		* components have all the same functionality as projects (wikis, their own contributor settings, their own public/project settings)
+
+## Adding organizational structure 
 
 ![Current project structure](Project_figs/post_wiki_project.png)
 
