@@ -4,29 +4,24 @@
 ## Learning Objectives
 * Understand the motivations for open sharing
 * Understand important considerations before making data public
-* Understand how to make research findable
-	* Public/Private Settings
-	* How to add/use tags
-	* Searching on the OSF	
+* Understand how to make research findable	
 * Understand how to get credit for your work
-	* GUIDs/DOIs
-	* Statistics Page
-	* Forking
-
-## Section Outline
-* Go over different motivations for open sharing
-
-So we’ve created our project, we’ve followed it all the way through, and now we’re at the point where we need to decide if we want to publicly share our work, and if so what parts of it do we want to share? Now there are a couple of different reasons why we might want to share our work. The first is that it could be required of us. More funder and journals are starting to require data and code sharing especially, so depending on where you publish and/or where you get grant money from, this may be a requirement. Another reason to share you work is that there is research showing that publicly available work actually gets cited more, so you can increase the impact of your work by making it publicly available. Additionally, if you make your work public, it’s easier for others to build off of work you’ve done, cite you, even potentially collaborate with you. So, it can help your work and impact grow exponentially. 
-
-	* funder mandates
-	* increased impact of work
-	* reproducibility
-
-* Have one group member make some part or whole of the project public
-
-So, as we mentioned before, everything on the OSF defaults to private, unless you choose to make parts or all of a particular project public. Now that we’re finished with our study, we need to decide how much we want to make public. You can do this by clicking on the ‘public’ button at the top of the project. Now one important thing to think about before you make anything public is, ‘is there anything in this component that I can’t make public for legal or ethical reasons?’ That might include materials that you used in your project that are perhaps copyrighted material that you can’t openly share, or data-files that are not anonymous and so your IRB has told you that you can only make public the anonymous dataset. So, we’re now going to have you discuss in groups what parts of your project you want to make public and then go ahead and make those sections public. If you have to make some changes to the organization of your project to allow you to make public and keep private the specific files that you need or want to, that’s fine.
 
 
+## Why share?
+
+Now that we’ve created our project, uploaded all our materials, documented our entire process, we’re at the point where we need to decide if we want share our work, and if so what parts of it do we want to share? There are many different reasons why you might want to share your work. Many funder and some journals now require that data and code be shared upon publication or the conclusion of a grant. Additionally there is evidence to suggest that papers with open data get cited more than papers that do not. Finally, sharing materials and data makes it easier for others to try and reproduce your work, and potentially try to build off it. So, there are both internal and external reasons that may motivate sharing some of all of your research products. 
+
+## Sharing
+
+As we talked about before, everything on the OSF defaults to private. You can make either the entire project, or specific components of the project public at any point you want by clicking o the `public` button of each project/component you wish to make public. Now that we’re finished with our study, we need to decide how much we want to make public. One important thing to consider before making anything public is whether it contains anything that I can’t make public for legal or ethical reasons?’ That might include materials that you used in your project that are perhaps copyrighted, or data-files that are not anonymous and so your IRB has told you that you can only make public the anonymous dataset. 
+
+### Activity
+With your group, discuss how much of your project you want to make public. Additionally, if you have to move any files or create new components to make sure you don’t release any non-anonymized data, do that now. 
+
+
+## Increasing discoverability
+ 
 * Show search on OSF and search on SHARE
 
 We want to make sure that when we make our work open, we also make sure it is discoverable. Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search. You’ll see it will also make suggestions about ways to potentially refine your search. Public project on the OSF are also indexed by google, so they are discoverable outside of the system. So, for example, if we go to google and search for ‘Brian Nosek replication’ two of the first things that come up are related to the OSF. Finally, the last way that information on the OSF is discoverable is through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 40 different providers. For SHARE specifically, only public registrations show up in the search results, which is another reason to register projects when you want to release a stable version of them.
