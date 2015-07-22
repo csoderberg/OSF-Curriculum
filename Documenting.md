@@ -45,18 +45,19 @@ Once the project is registered it will look like this.
 
 A few things to notice about the registration. Firstly, the registration GUID is different from the projects, so you can easily use the links to send people to either the project, or the registration, whichever is more appropriate. For this registration, I chose to make it public immediately. Just like the actual project and registration have different GUIDs, they also have different privacy settings. So, even though the registration is public, the actual project is still private, and I can make changes to that project which non-contributors will not be able to see. Since this is a public registration, you’ll notice that you can request a DOI/ARK ID for the registration. Especially if you are registering at the end of a project, the journal you a submitting to may require a DOI, and so registering the project is the way to get a DOI for the contents. For embargoed registrations, once the embargo ends and they become public, you can obtain a DOI for them.
 
+## Files and Version Control
 
-* Person A uploads initial analysis script, Person B uploads data dictionary, Person C uploads data file(s)
+Now we want to start actually working on our project. We had previously already uploaded our materials, in this case our survey questionnaire, but now we need to make sure we upload our data. You always want to keep a copy of our complete, raw data file. Even if we end up doing a lot of data cleaning, or only using a subset of the datafile for our analyses, we want to keep a raw, untouched version of the data file to make sure we can always create our analyses from start to finish if we have to. So go ahead and name the data file accordingly and upload it to the appropriate section of you project. We also want to upload the data dictionary so we’ll always know what our variable names actually mean. 
 
-So now that we’ve ‘registered’ our project, we can start the process of actually working on it. So, before, I had you all develop research questions. So, now, I’m going to give you a couple of minutes to actually work on creating materials to upload to the site. You’ll need a few things:
+### Activity
+Upload raw data file and data dictionary.
 
-* Some documentation of the analyses you did. What exactly this is will depend on what program you are using to run your analyses. 
 
-* A data file or data files. Think this through carefully. You have a few choices you can make. The first choice is what do to with the de-identified dataset. Additionally, if you are only using a subset of variables in your analyses, how do you want to upload your data? Remember that different components have differential privacy settings. There’s no real right or wrong way to do this, but at the end we’ll talk about the different choices people made and the pros and cons of the different possibilities. 
+Now we want to start actually working on the project. Before, I had you all develop research questions. I’m now going to give you some time to actually analyze the data to answer the research question you initially came up with. You can use whatever analysis software you like, just keep in mind that you need to document what you did, so you’ll either need to use a scripted language, like R or Python or SPSS or SAS and save the script so you can upload it, or write out a narrative description of what you did and upload that if you are using non-scripted software like excel. 
 
-* A data dictionary.
+### Activity
+Have groups takes a first stab at their data analysis and upload the documentation of their analyses. 
 
-So, take 5-10 minutes to work on creating these files and uploading them to your project. One person in your group should upload the data dictionary, another should upload the datasets, and another should upload the analysis documentation. You can upload files to the OSF in two different ways. The first is by simply dragging and dropping a file into the file tree, if the file is easily accessible on your computer. Another is to go into the files tab, click the ‘upload’ icon next to the component you want to upload your data to, and then this will bring up a widget to allow you to search through your computer to find the file you would like to upload.
 
 * Showing version control
 	* Person B edits person A’s analysis script so it includes comments
