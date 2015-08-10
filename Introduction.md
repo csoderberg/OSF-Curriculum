@@ -18,10 +18,13 @@ Before we go any further, I want to define what I mean when I say reproducibilit
 
 One way in which a study can be reproducible is that if you took someones data and their code/analysis scripts and reran exactly what they did, you would be able to reproduce the numbers that are reported in their paper. This is sometimes called `computational reproducibility`. This one might sound rather simple, but it can be surprisingly tricky. For example, the Quarterly Journal of Political Science requires that all submitted articles also submit a ‘replication package’ which includes all the data and code required to replicate the numbers in the articles. These are then subjected to internal review. Over the last two years, 14 of the 24 empirical papers, 58 percent, subjected to this review showed differences between the results reported in the paper and the results obtained from the internal review.
 
+Another type of reproducibility is the question of whether we can reproduce what was done. So, do we have enough information to rerun the experiment or survey the way it was originally conducted? This is sometimes referred to as `empirical reproducibility’.
 
-Another type of reproducibility is the question of whether we can reproduce what was done. So, do we have enough information to rerun the experiment or survey the way it was originally done? Another type of reproducibility is the question of, if we reran the study using the same methods and the same analyses, but collected our own data, would we reproduce the results? This is often called replicability. 
+Finally, there is the question of, if we have enough information to reproduce the studies protocol completely, and reproduce the analyses completely,  and on independent data set, would we reproduce the results? Would we come to the same statistical conclusions as the original study? This is often referred to as the replicability of the study.
 
-Now, all these types of reproducibility are important and all have their challenges. And you’ll notice that some are dependent upon one another. So, if you don’t have experimental reproducilbity you won’t be able to gage the replicability of a study since you won’t ever be able to rerun it. Today, we’ll mostly be talking about ways to increase the computational and experimental reproducibility of studies. 
+Now, all three of these are important, and if you’ll notice we can’t attempt the third one without the first two, but often in science we want the results of studies to be reproducible, so we want our scientific findings to replicate. For this workshop, we’ll be talking about issues that should increase all three type of reproducibility, towards the goal of making scientific findings more replicable.
+
+Another type of reproducibility is the question of, if we reran the study using the same methods and the same analyses, but collected our own data, would we reproduce the results? This is often called replicability. 
 
 * Why is this a problem (for individual researchers, for a lab, for others)
 
