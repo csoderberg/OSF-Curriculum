@@ -31,7 +31,8 @@ Another type of reproducibility is the question of, if we reran the study using 
 
 I mentioned earlier that when we talk about issues of reproducibility, we aren’t talking about fraud. So if most of this is now caused by fraud, what is leading to the problem? There are a number of contributing factors, but one of the big issues is a lack of documentation and transparency. Here is an abstract representation of the research lifecycle. 
 
-![research lifecycle](intro_figs/research_lifecycle.jpeg)
+![research lifecycle](intro_figs/research_lifecycle.png)
+
 
 How it generally works now, if I’m not in your lab the only part of this process that I can see if the finally step, all I see is what is in the published report. And even if I am in your lab, after about 6 months, I probably won’t remember what happened at these different steps, so all I’lll be left with is the published report. Even if it’s our own research, as some point we will forget what happened in these earlier steps and have to resort to using the publish report as a guide. This creates problems for a couple of reasons. Firstly, if something doesn’t get published, it basically gets lost because no one else knows it was done, and we loose are report ‘guide’. Secondly, even if something does get published, any details that aren’t in the publication are quickly lost. Additionally, research generally evolves a lot across this process, and the publication generally only gives the final version, so information about how the project has evolved over time is also lost. So, basically, the point is that there is a lot of information loss because of the lack of transparency and documentation of final products and of the lifecycle of projects. 
 
