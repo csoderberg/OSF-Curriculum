@@ -34,13 +34,16 @@ I already mentioned that all projects, subprojects/components, and files on the 
 
 Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search. You’ll see it will also make suggestions about ways to potentially refine your search. 
 
-[search example]
+[search example](Sharing_figs/osf_search.png)
+[search results](Sharing_figs/search_results.png)
 
-Public project on the OSF are also indexed by google, so they can be discovered outside the system. So, for example, if we go to google and search for ‘Brian Nosek replication’ two of the first things that come up are related to the OSF. 
+Public project on the OSF are also indexed by google, so they can be discovered outside the system. So, for example, if we go to google and search for ‘Daniel Lakens effect size’ his OSF project related to effect sizes comes up. 
 
-[nosek google search] 
+[daniel google search](Sharing_figs/lakens_google.png)
 
 Finally, information that has been registered on the OSF is discoverable through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 50 different providers. For SHARE specifically, only public registrations show up in the search results, which is another reason to register projects when you want to release a stable version of them.
+
+[share image]
 
 * Example tags and have someone (not the same person as above) add some tags
 
