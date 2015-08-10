@@ -42,7 +42,7 @@ You’ll see it will also make suggestions about ways to potentially refine your
 
 Public project on the OSF are also indexed by google, so they can be discovered outside the system. So, for example, if we go to google and search for ‘Daniel Lakens effect size’ his OSF project related to effect sizes comes up. 
 
-[daniel google search](Sharing_figs/lakens_google.png)
+![daniel google search](Sharing_figs/lakens_google.png)
 
 Finally, information that has been registered on the OSF is discoverable through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 50 different providers. For SHARE specifically, only public registrations show up in the search results, which is another reason to register projects when you want to release a stable version of them.
 
