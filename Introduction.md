@@ -38,9 +38,7 @@ How it generally works now, if I’m not in your lab the only part of this proce
 
 ## Why should you care about increasing reproducibility?
 
-Now, why in particular should we care about low levels of reproducibility? As I mentioned previously, i
-
-Low levels of reproducibility and replicability are a problem for a number of reasons. One of the ones you’ve probably heard before is that it’s a problem because if findings don’t replicate, that means we may not know as much as we think we know, and if we can’t reproduce the experiments, we can’t even check if the results will replicate, so it makes it difficult to attempt to validate scientific knowledge and slows down the progress of science. 
+Now, why in particular should we care about low levels of reproducibility? Low levels of reproducibility and replicability are a problem for a number of reasons. One of the ones you’ve probably heard before is that it’s a problem because if findings don’t replicate, that means we may not know as much as we think we know, and if we can’t reproduce the experiments, we can’t even check if the results will replicate, so it makes it difficult to attempt to validate scientific knowledge and slows down the progress of science. 
 
 However, low levels of reproducibility also have an impact closer to home, specifically, it can make work in your own lab less efficient. If you think how transient labs are, often one graduate student starts something, leaves, and then another graduate student is trying to pick up their project or build an extend a project done by someone else. Or perhaps you submit a paper, and 6 months later an editor asks you for new analyses and you have to go and find your data and analysis findings again. Both of these scenarios are contingent on knowing where all your stuff is, and a large amount of either transfer of knowledge or remembering of knowledge, which in general we as people don’t do well right now. This means that the current practices also make it hard for us to replicate and build off our own work, which can often lead to wastes of time and lab resources.  
 
