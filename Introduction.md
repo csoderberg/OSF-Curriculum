@@ -5,16 +5,21 @@
 * Understand why the whole workflow is important
 * Understand documentation/organizational issues underpinning this
 
-## Section Outline
-* Discuss evidence for low levels of reproducibilty
+## What is the problem?
 
-Over the past few years there has been a growing concern that many of the findings in the published literature may now replicate. There is evidence from a broad range of fields, including cancer biology, psychology, and political science, that the published literature may not be as reliable as we would like to believe. Now, in the last few years there have been a few very high profile fraud cases, but what I’m talking about here is not fraud. What I’m talking about is research practices that have become standard practice in many fields leading to scientists producing research that is harder to reproduce and replicate.
+Though many of your in this room come from different scientific or research backgrounds, there are three overarching goals that most people engaged in research have in common. The first is that we are interested in studying innovative ideas; we want to discover new things about how the world works. Second, we are interested in producing reproducible results; we want to be able to find our results again, and we want others to be able to find them as reproducible results. Finally, we want to build off others work and how others build off our own work to accumulate knowledge over time; we want research to move our understanding of the work forward. 
 
-* What is reproducibility?
+All three of these ideals are suppose to be embodied in the published, peer-reviewed scientific literature. That is where we accumulate knowledge and is our store of what we as scientists ‘know’. So, the scientific literature is also often seen as embodying these ideals of innovation, reproducibility, and documenting the accumulation of knowledge. However, over the past few years there has been a growing concern that many of the findings in the published literature may not replicate. There is evidence from a broad range of fields, including cancer biology, psychology, and political science, that the published literature may not be as reliable as we would like to believe. Now, in the last few years there have been a few very high profile fraud cases, but that’s now what I’m talking about here. What were going to be talking about today are standard research practices that leads scientists to produce research that is more difficult to reproduce and replicate, thus leading to generally low levels of replicability. 
 
-There are a lot of different definitions out there of what ‘reproducible’ means. So before we get too far we should define out terms. 
 
-One way in which a study can be reproducible is that if you took someones data and their code and reran exactly what they did, you would be able to reproduce the numbers they got. This is sometimes called computational reproducibility. Another type of reproducibility is the question of whether we can reproduce what was done. So, do we have enough information to rerun the experiment or survey the way it was originally done? Another type of reproducibility is the question of, if we reran the study using the same methods and the same analyses, but collected our own data, would we reproduce the results? This is often called replicability. 
+## What is Reproducibility?
+
+Before we go any further, I want to define what I mean when I say reproducibility. This is a broad term which has been used by many different people to mean different things, so I want to make sure we’re all on the same page. 
+
+One way in which a study can be reproducible is that if you took someones data and their code/analysis scripts and reran exactly what they did, you would be able to reproduce the numbers that are reported in their paper. This is sometimes called `computational reproducibility`. This one might sound rather simple, but it can be surprisingly tricky. For example, the Quarterly Journal of Political Science requires that all submitted articles also submit a ‘replication package’ which includes all the data and code required to replicate the numbers in the articles. These are then subjected to internal review. Over the last two years, 14 of the 24 empirical papers, 58 percent, subjected to this review showed differences between the results reported in the paper and the results obtained from the internal review.
+
+
+Another type of reproducibility is the question of whether we can reproduce what was done. So, do we have enough information to rerun the experiment or survey the way it was originally done? Another type of reproducibility is the question of, if we reran the study using the same methods and the same analyses, but collected our own data, would we reproduce the results? This is often called replicability. 
 
 Now, all these types of reproducibility are important and all have their challenges. And you’ll notice that some are dependent upon one another. So, if you don’t have experimental reproducilbity you won’t be able to gage the replicability of a study since you won’t ever be able to rerun it. Today, we’ll mostly be talking about ways to increase the computational and experimental reproducibility of studies. 
 
