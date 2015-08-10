@@ -26,11 +26,8 @@ Now, all three of these are important, and if you’ll notice we can’t attempt
 
 Another type of reproducibility is the question of, if we reran the study using the same methods and the same analyses, but collected our own data, would we reproduce the results? This is often called replicability. 
 
-## What is leading to low levels of reproducibility?
 
-	* Current workflow non-transparency
-	* Current lack of workflow documentation
-		* issues that can arrive with lack of transparency at all points
+## What is leading to low levels of reproducibility?
 
 I mentioned earlier that when we talk about issues of reproducibility, we aren’t talking about fraud. So if most of this is now caused by fraud, what is leading to the problem? There are a number of contributing factors, but one of the big issues is a lack of documentation and transparency. Here is an abstract representation of the research lifecycle. 
 
