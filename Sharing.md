@@ -34,8 +34,8 @@ I already mentioned that all projects, subprojects/components, and files on the 
 
 Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search. You’ll see it will also make suggestions about ways to potentially refine your search. 
 
-[search example](Sharing_figs/osf_search.png)
-[search results](Sharing_figs/search_results.png)
+![search example](Sharing_figs/osf_search.png)
+![search results](Sharing_figs/search_results.png)
 
 Public project on the OSF are also indexed by google, so they can be discovered outside the system. So, for example, if we go to google and search for ‘Daniel Lakens effect size’ his OSF project related to effect sizes comes up. 
 
@@ -43,13 +43,13 @@ Public project on the OSF are also indexed by google, so they can be discovered 
 
 Finally, information that has been registered on the OSF is discoverable through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 50 different providers. For SHARE specifically, only public registrations show up in the search results, which is another reason to register projects when you want to release a stable version of them.
 
-[share image]
+![share image]
 
 * Example tags and have someone (not the same person as above) add some tags
 
 We want to try and make our work as discoverable, so we want to make sure we understand how are work is being searched. Currently, the search on the OSF will search through contents in the wiki, project/component names, and tags. But it won’t search through individual files. So, if you think there are a few important key words that people might use to search for your project that don’t appear in the wiki or project name, where do you put this information? We can add `tags` to our project to make it more discoverable. You’ll notice this ‘tags’ area to the right of the screen. I can put whatever descriptors or keywords in here that I want to make it easier to discover my project for searching for related words/topics. 
 
-[tags]
+![tags]
 
 
 > Activity: And add some tags that you think might be relevant to your project.
