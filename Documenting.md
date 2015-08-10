@@ -49,6 +49,9 @@ A few things to notice about the registration. Firstly, the registration GUID is
 
 Now we want to start actually working on our project. We had previously already uploaded our materials, in this case our survey questionnaire, but now we need to make sure we upload our data. You always want to keep a copy of our complete, raw data file. Even if we end up doing a lot of data cleaning, or only using a subset of the datafile for our analyses, we want to keep a raw, untouched version of the data file to make sure we can always create our analyses from start to finish if we have to. So go ahead and name the data file accordingly and upload it to the appropriate section of you project. We also want to upload the data dictionary so we’ll always know what our variable names actually mean. 
 
+![data upload](Document_figs/data_upload.png)
+
+
 > Activity: Upload raw data file and data dictionary.
 
 
@@ -60,7 +63,6 @@ Now we want to start actually working on the project. Before, I had you all deve
 Alright, so now we have the static version of all these different files, but in real research, things often change over time. We need a way to easily track those changes. This tracking of different versions of a file is usually called ‘version control’. Often times people have their own ad-hoc version control procedures, such as:
 
 ![poor version control](Document_figs/version_control.png)
-
 
 Which is a complete mess, as is a real picture of the folder containing all(ish) of the versions of a researchers dissertation. I saw allish because there are definitely versions missing, especially early in the manuscripts history. This can become and even bigger problem if we are talking about missing versions or protocols or data-analyses or even data itself, where you can easily get into a situation where a few months down the road, it may take days for you to figure out, if you can at all, exactly what protocol was used, or exactly which analysis file was used to produce the results in the paper you submitted. So, we want to make sure this doesn’t happen to us. 
 
