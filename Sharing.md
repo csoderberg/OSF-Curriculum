@@ -32,9 +32,12 @@ One thing I could do would be to create another component under `Data` and move 
  
 I already mentioned that all projects, subprojects/components, and files on the OSF have GUIDs. So, if I want to send people to my project I can send them that GUID, or put it in my paper to help people navigate to my materials. However, we also want to make sure that our materials can be discovered by people who don’t already know it exists. We want to make sure it is discoverable.
 
-Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search. You’ll see it will also make suggestions about ways to potentially refine your search. 
+Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search.  
 
 ![search example](Sharing_figs/osf_search.png)
+
+You’ll see it will also make suggestions about ways to potentially refine your search.
+
 ![search results](Sharing_figs/search_results.png)
 
 Public project on the OSF are also indexed by google, so they can be discovered outside the system. So, for example, if we go to google and search for ‘Daniel Lakens effect size’ his OSF project related to effect sizes comes up. 
