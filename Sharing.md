@@ -26,16 +26,30 @@ One thing I could do would be to create another component under `Data` and move 
 
 > Activity: Now that I’ve shown you how to move files, discuss how much of your project you can/want to make public. Make those sections of your project public, and if you need to reorganize any parts of your project to accomplish that, please do that now.
 
+[shared project]
 
 ## Increasing discoverability
  
-* Show search on OSF and search on SHARE
+I already mentioned that all projects, subprojects/components, and files on the OSF have GUIDs. So, if I want to send people to my project I can send them that GUID, or put it in my paper to help people navigate to my materials. However, we also want to make sure that our materials can be discovered by people who don’t already know it exists. We want to make sure it is discoverable.
 
-We want to make sure that when we make our work open, we also make sure it is discoverable. Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search. You’ll see it will also make suggestions about ways to potentially refine your search. Public project on the OSF are also indexed by google, so they are discoverable outside of the system. So, for example, if we go to google and search for ‘Brian Nosek replication’ two of the first things that come up are related to the OSF. Finally, the last way that information on the OSF is discoverable is through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 40 different providers. For SHARE specifically, only public registrations show up in the search results, which is another reason to register projects when you want to release a stable version of them.
+Work posted on the OSF can be discovered in a couple of different ways. The first is through the search function within the OSF itself. We can search for anything we want, a project title, a general topic, a person’s name, and the system will bring up anything related to our search. You’ll see it will also make suggestions about ways to potentially refine your search. 
+
+[search example]
+
+Public project on the OSF are also indexed by google, so they can be discovered outside the system. So, for example, if we go to google and search for ‘Brian Nosek replication’ two of the first things that come up are related to the OSF. 
+
+[nosek google search] 
+
+Finally, information that has been registered on the OSF is discoverable through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 50 different providers. For SHARE specifically, only public registrations show up in the search results, which is another reason to register projects when you want to release a stable version of them.
 
 * Example tags and have someone (not the same person as above) add some tags
 
-Something to keep in mind is how to make your work more discoverable to people. Currently, the search on the OSF will search through contents in the wiki, project/component names, and tags. But it won’t search through individual files. So, if you think there are a few important key words that people might use to search for your project that don’t appear in the wiki or project name, where do you put this information? I mentioned tags. So if we go back to our projects, you’ll notice this ‘tags’ area to the right of the screen. I can put whatever descriptors or keywords in here that i want to make it easier to discover my project for searching for related words/topics. So, go ahead and add some tags that you think might be relevant to your project.
+We want to try and make our work as discoverable, so we want to make sure we understand how are work is being searched. Currently, the search on the OSF will search through contents in the wiki, project/component names, and tags. But it won’t search through individual files. So, if you think there are a few important key words that people might use to search for your project that don’t appear in the wiki or project name, where do you put this information? We can add `tags` to our project to make it more discoverable. You’ll notice this ‘tags’ area to the right of the screen. I can put whatever descriptors or keywords in here that I want to make it easier to discover my project for searching for related words/topics. 
+
+[tags]
+
+
+> Activity: And add some tags that you think might be relevant to your project.
 
 
 * Now that work is open and findable, how can they make sure they get credit for their work?
