@@ -52,16 +52,19 @@ Now we want to start actually working on our project. We had previously already 
 > Activity: Upload raw data file and data dictionary.
 
 
->> Now we want to start actually working on the project. Before, I had you all develop research questions. I’m now going to give you some time to actually analyze the data to answer the research question you initially came up with. You can use whatever analysis software you like, just keep in mind that you need to document what you did, so you’ll either need to use a scripted language, like R or Python or SPSS or SAS and save the script so you can upload it, or write out a narrative description of what you did and upload that if you are using non-scripted software like excel. 
+Now we want to start actually working on the project. Before, I had you all develop research questions. I’m now going to give you some time to actually analyze the data to answer the research question you initially came up with. You can use whatever analysis software you like, just keep in mind that you need to document what you did, so you’ll either need to use a scripted language, like R or Python or SPSS or SAS and save the script so you can upload it, or write out a narrative description of what you did and upload that if you are using non-scripted software like excel. 
 
->>> Have groups takes a first stab at their data analysis and upload the documentation of their analyses. 
+> Activity: Have groups takes a first stab at their data analysis and upload the documentation of their analyses. 
 
 
 Alright, so now we have the static version of all these different files, but in real research, things often change over time. We need a way to easily track those changes. This tracking of different versions of a file is usually called ‘version control’. Often times people have their own ad-hoc version control procedures, such as:
 
-Which is a complete mess, as is a real picture of the folder containing all(isn) of the versions of a researchers dissertation. Now, this is for a manuscript, so it’s not the end of the world if we don’t have every versions and can easily recreate the order. It isn’t great, but it isn’t the end of the world. This problem becomes even worse when we are talking about data files, or analysis scripts, or methodologies and protocols for studies, when all of a sudden you can find yourself in the situation where you don’t actually know what analysis file goes with the analyses in your paper, or what exact version of the protocol was used in your study. So, we want to make sure this doesn’t happen to us. 
+![poor version control](Document_figs/version_control.png)
 
-There are some programming languages out there that are specifically build for version control, many of you may have heard of Git and Github, and those are great, but they can provide a barrier to adoption of good version control methods for people who either don’t have the time or motivation to learn how to use them. So, the OSF has built in basic version control features to help lower that barrier. 
+
+Which is a complete mess, as is a real picture of the folder containing all(ish) of the versions of a researchers dissertation. I saw allish because there are definitely versions missing, especially early in the manuscripts history. This can become and even bigger problem if we are talking about missing versions or protocols or data-analyses or even data itself, where you can easily get into a situation where a few months down the road, it may take days for you to figure out, if you can at all, exactly what protocol was used, or exactly which analysis file was used to produce the results in the paper you submitted. So, we want to make sure this doesn’t happen to us. 
+
+There are some programming languages out there that are specifically build for version control, many of you may have heard of Git and Github, and those are great, but they can prove to be a barrier to adoption of good version control methods for people who either don’t have the time or motivation to learn how to use them. So, the OSF has built in basic version control features to help lower that barrier. 
 
 Version control on the OSF works in a few different ways. Some things, you can edit directly on the site and save the new versions. This is a possibility for the wiki, and for anything that will render as a plain text file. So, if I go to the R script I uploaded, you’ll notice an ‘edit’ button in the top right corned if this is an editable file. I can click on that, and edit this script directly on the OSF, and the edits will be saved as a new version, the same thing with the wiki. 
 
