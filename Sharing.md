@@ -52,16 +52,18 @@ We want to try and make our work as discoverable, so we want to make sure we und
 > Activity: And add some tags that you think might be relevant to your project.
 
 
-* Now that work is open and findable, how can they make sure they get credit for their work?
-	* remind them of DOI feature on registrations
-	* point of auto-generated citations
+## Getting credit
+
 So a big part of academia and the job market is being able to show that your work has impact. The classic way many fields often talk about this is citation counts. Now, we know this isn’t a great metric, particularly for newer papers, but since there is still a heavy emphasis places on it, we want to make sure that whatever we make open can be cited by other people who used it. We talked before about how you can get DOIs for your work through public registrations. Every project and component on the OSF also has an automatically generated citation which uses the GUID of the page, so as long as you have the correct contributor list on your project, everyone can get credit for it.
 
-	
-	* citation counts not that great at measuring actual impact/use. What other information do we give them?
-		* show statistics page of an older public project
-			* also show download counts
+[citation widget]
 
-As I mentioned, citation counts aren’t a particularly good metric, so what else is there? Well, two things we might be interested in are views and downloads. For all public projects we track how many people are visiting a page, and we track how often all files are downloaded. No, your projects aren’t particularly old, so they probably won’t have very many views. But, if we search for ‘Daniel Lakens’ and click on this project, we can see how views and downloads can give vastly different information than citation counts. So, this is an OSF project associated with an article published in Frontiers, which is an open access journal. The paper and supplemental materials were also made publicly available on the OSF. Now, last time I check, this paper has had a bit under 100 citations, which isn’t bad, but it’s not a huge amount of impact. If we click on the files tab, that will allow us to see the download coutns for all the files. You can see that the paper has been downloaded around 1500 times, which is a ton. Additionally, if we go to the statistics tab, we can see how many people are viewing the cite and where in the world they ar eviewing it from. So, these view and download numbers are telling a much more impressive story than the citations, a lot of people are interstedin this project because they find the materials useful.
+But, since citation counts have limitations, what else could we use to measure the impact of our work? Well, two things we might be interested in are views and downloads. For all public projects we track how many people are visiting a page, and we track how often all files are downloaded. Now, your projects aren’t particularly old, so they probably won’t have very many views. But, if we search for ‘Daniel Lakens’ and click on this project, we can see how views and downloads can give vastly different information than citation counts. So, this is an OSF project associated with an article published in Frontiers, which is an open access journal. The paper and supplemental materials were also made publicly available on the OSF. Now, last time I check, this paper has had a bit under 100 citations, which isn’t bad, but it’s not a huge amount of impact. If we click on the files tab, that will allow us to see the download counts for all the files. You can see that the paper has been downloaded around 1500 times, which is a ton. 
+
+[download counts]
+
+Additionally, if we go to the statistics tab, we can see how many people are viewing the cite and where in the world they are viewing it from. So, these view and download numbers are telling a much more impressive story than the citations; a lot of people are interested this project because they find the materials useful.
+
+[statistics page view]
 
 * Recap of general things they’ve learned
