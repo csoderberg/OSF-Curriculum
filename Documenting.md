@@ -62,15 +62,19 @@ Now we want to start actually working on the project. Before, I had you all deve
 
 Alright, so now we have the static version of all these different files, but in real research, things often change over time. We need a way to easily track those changes. This tracking of different versions of a file is usually called ‘version control’. Often times people have their own ad-hoc version control procedures, such as:
 
-![poor version control](Document_figs/version_control.png)
+![poor version control]
 
-Which is a complete mess, as is a real picture of the folder containing all(ish) of the versions of a researchers dissertation. I saw allish because there are definitely versions missing, especially early in the manuscripts history. This can become and even bigger problem if we are talking about missing versions or protocols or data-analyses or even data itself, where you can easily get into a situation where a few months down the road, it may take days for you to figure out, if you can at all, exactly what protocol was used, or exactly which analysis file was used to produce the results in the paper you submitted. So, we want to make sure this doesn’t happen to us. 
+Which is a complete mess. Poor version control can make finding files and recreating experiments/analyses very difficult, because in a few months it may take days for you to figure out, if you can at all, exactly what protocol was used, or exactly which analysis file was used to produce the results in the paper you submitted. So, we want to make sure this doesn’t happen to us. 
 
 There are some programming languages out there that are specifically build for version control, many of you may have heard of Git and Github, and those are great, but they can prove to be a barrier to adoption of good version control methods for people who either don’t have the time or motivation to learn how to use them. So, the OSF has built in basic version control features to help lower that barrier. 
 
 Version control on the OSF works in a few different ways. Some things, you can edit directly on the site and save the new versions. This is a possibility for the wiki, and for anything that will render as a plain text file. So, if I go to the R script I uploaded, you’ll notice an ‘edit’ button in the top right corned if this is an editable file. I can click on that, and edit this script directly on the OSF, and the edits will be saved as a new version, the same thing with the wiki. 
 
+![text editing]
+
 For non-text files, the procedure is a little different. You’ll open the file on your personal computer, and make any changes that you want. Then save the file *with the exact same name* on your computer. So, on your computer, you’ve just over-written the older version of the file. Now, go to the OSF and upload the file with the same name to the same component, once the file is uploaded you can click on that file  and see that there are now 2 versions of the file, and you can toggle between them. 
+
+![word file versions]
 
 Now that I’ve shown the ways version control works on the system, I want you all to edit your projects. Two of you, if you could go into the wiki and update it so that it reflects that analyses you actually performed. One of you who didn’t run the analyses, if you go could look at the analysis script that was uploaded, and edit it to make sure that it is clearly commented. How you do this will depend on the exact way in which the file was uploaded. If you don’t know how to comment in the particular language the analysis was done, ask the person who did the analyses.
 
