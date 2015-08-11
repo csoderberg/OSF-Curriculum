@@ -42,9 +42,20 @@ Now, why in particular should we care about low levels of reproducibility? Low l
 
 However, low levels of reproducibility also have an impact closer to home, specifically, it can make work in your own lab less efficient. If you think how transient labs are, often one graduate student starts something, leaves, and then another graduate student is trying to pick up their project or build an extend a project done by someone else. Or perhaps you submit a paper, and 6 months later an editor asks you for new analyses and you have to go and find your data and analysis findings again. Both of these scenarios are contingent on knowing where all your stuff is, and a large amount of either transfer of knowledge or remembering of knowledge, which in general we as people don’t do well right now. This means that the current practices also make it hard for us to replicate and build off our own work, which can often lead to wastes of time and lab resources.  
 
-Thus, learning about and implementing more reproducible practices will help both science as a whole, as well as your own work.
+So, learning about and implementing more reproducible practices will help both science as a whole, as well as your own work.
 
+## What will happen in this workshop?
 
+In this workshop, we’ll be talking about ways to increase the documentation and transparency of your workflow, and learning tools that will help you to implement these changes. To do this, we’re all going to be working through an example study in simulated research groups of a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent research project from start to finish in order to learn good project management practices and use of the OSF. At the end of the workshop we’ll also be sharing the projects we’ve built with each other so we can see how well others can understand what we’ve done. 
+
+## Group set-up
+So, to start off, lets count off in 3s. If you don’t have a computer with you, say ’skip’ and look on with one of the groups on either side of you. These will be your groups. All the 1s will be the PIs, all the 2s with be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, it’s not going to have a huge impact on what you do today, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
+
+> Activity: Count off in 3s for group creation
+
+Also, as I mentioned we’ll be working with the OSF during this workshop. So, if you don’t already have an OSF account, please go ahead and set-up one. If you go to [visit OSF](https://osf.io) you can either create an account, or sign-in if you already have one. If you are creating an account, an email will be sent to your email to verify your account.
+
+> Activity: Sign-up or login to [visit OSF](https://osf.io)
 
 
 
