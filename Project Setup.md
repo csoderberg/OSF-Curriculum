@@ -17,31 +17,29 @@ I emailed all the materials to you this morning. If you open up the filed called
 
 We talked before about the problems that can arise when we either don’t document work, or we try and go and back document work once a study is accepted for publication. We also talked about the challenges and problems that can arise when we are trying to collaborate with multiple people. So, to try and begin to solve some of these problems, we’re going to set up a collaborate space for our research study using the OSF to help document and organize our research.
 
-To start, we need to go to osf.io. If you don’t have an account already go ahead and take a minute to create one, or sign-in if you already have an account. 
-
 Now that you’re all signed in, you should be all be seeing the `project dashboard`. This is where you start each new `project`. A `project` on the site can be anything: a lab group, an organization, a grant, a line of research, ann individual experiment, etc. Basically, you can think about this as just the top level of a nested structure. You’ll be able to nest as many things under it later as you like. So different researchers and different labs will have different preferences about how high level they like initial projects to be. 
 
-### Activity
 Since we don’t have any projects yet, and we’re only going to be working on one research project, lets just create a project for that one study. If you are the PI in your group, if you could click on the ‘create project’ button, and give the project whatever name you like. You can also give it a short description if you want, but you don’t have to. There will be a space later to add a longer description. Then, create the project:
+
+> Activity: PIs create new project
 
 ![Creating a project](Project_figs/creating_project.png)
 
 
-If you’re a PI, you should now be seeing something that looks similar to my screen. If you aren’t a PI, you can follow along on my screen for the moment. This is the `project overview page`. Any project you create on the site will start out basically looking like this, and then you can customize it to fit the needs of that particular project or workflow. The system was built to be very quite discipline agnostic, which is why projects start out so bare. 
+If you’re a PI, you should now be seeing something that looks similar to my screen. If you aren’t a PI, you can follow along on my screen for the moment. This is the `project overview page`. Any project you create on the site will start out basically looking like this, and then you can customize it to fit the needs of that particular project or workflow. The system was built to be very discipline agnostic, which is why projects start out so bare. 
 
-The `project overview page` has a very different sections. The `wiki` is a collaborative editing space that you can use to include important overview information about the project, things like READMEs, abstracts, research questions, outlines, etc. The `file tree` is how you upload and navigate to files to the system; you can upload basically any type of file that you want, everything from CSVs to word documents, to power points, to image and video files. The `component` section is how you add additional structure and nesting to your project, we’ll talk more about that later, and then there is the `citation` widget, which shows you the automatically generated citation for the project:
+The `project overview page` has a few different sections. The `wiki` is a collaborative editing space that you can use to include important overview information about the project, things like READMEs, abstracts, research questions, outlines, etc. The `file tree` is how you upload and navigate to files to the system; you can upload basically any type of file that you want, everything from CSVs to word documents, to power points, to image and video files. The `component` section is how you add additional structure and nesting to your project, we’ll talk more about that later, and then there is the `citation` widget, which shows you the automatically generated citation for the project:
 
 ![Project overview page intro](Project_figs/project_overview.png)
 
 At the top of the screen, you’ll notice a little 5 letter string at the end of the osf.io url. This entire address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will point back to it unless the project is deleted. 
 
 
-
-
 ## Giving contributors access
 
-### Activity
-If you are a acting as a graduate student or RA in your group, go ahead and type in the GUID of the project your PI created. What happens? 
+If you are a acting as a graduate student or RA in your group, go ahead and type in the GUID of the project your PI created.
+
+> Activity(Question): What are GS & RAs seeing after typing in GUID?
 
 
 If you aren’t a PI, you should be seeing a screen telling you that you don’t have access to the project. That’s because all project on the OSF are set to `private` as a default. This means that only people who have been added as `contributors` to the project have access to it and can see and/or edit it. Right now, the PI is the only contributor on the project because they created it.  Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the `sharing` tab and click on that, this is how you can add people as contributors.
@@ -56,8 +54,9 @@ You’ll notice that each person is given a permission setting for access to the
 
 ![Altering permission settings for contributors](Project_figs/contributor_permissions.png) 
 
-### Activity
 PIs, go ahead and add your graduate student and RA collaborators to your project. You can decide what level of access you want to give them, but keep in mind that later on both are going to need the ability to upload files.
+
+> Activity: PIs add other groups members as contributors
 
 Grad students and RAs, if you try the GUID again, you should now be able to see the project page. Is everyone seeing their project page?
 
@@ -74,8 +73,9 @@ Now that you have a project and everyone has access, the first thing to do is st
 
 ![Adding wiki content](Project_figs/wiki_editing.png)
 
-### Activity
 Lets have you all take a minute to set up a wiki for the project. So, take a few minutes to discuss amongst your group what you are interested in looking at in the ANES dataset I gave you, then collaboratively enter your research question and hypotheses, if you have them, into the wiki. 
+
+> Activity: Create wiki with RQ and hypothesis
 
 
 ## Adding organizational structure 
@@ -95,7 +95,6 @@ Folders are another organization option that function a bit differently. A folde
 
 ![Creating a folder](Project_figs/creating_folder1.png)
 
-
 If we do this, a folder will appear which he can then name whatever we want. 
 
 ![Creating a folder](Project_figs/creating_folder2.png)
@@ -104,5 +103,6 @@ However, if you click on the folder, it will just expand; you won’t be taken i
 
 ![Resulting project structure](Project_figs/project_structure.png)  
 
-### Activity 
 Now that I’ve explained the difference between components and filers, I’ll give you a bit of time to set up some initial structure for your project. You can set it up however you want, there isn’t necessarily a right or wrong answer. Also, you can always move things if you initially set it up in one way and your realize that it would be better to set it up in another way later on. Just think through what are the major categories of file types you’ll have, and whether you might want to have different contributors or public vs. private access setting for them to determine whether you want to set them up as folders or components.
+
+> Activity: Create project structure using folders/components
