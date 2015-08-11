@@ -22,11 +22,11 @@ If you remember, I mentioned that our datafile had geotags, so we can’t actual
 
 One thing I could do would be to create another component under `Data` and move my raw data file to that component. Any file can be moved by simply clicking and dragging it to whichever part of the project you want to move it to. 
 
-[moving files]
+![moving files](Sharing_figs/moving_files.png)
 
 > Activity: Now that I’ve shown you how to move files, discuss how much of your project you can/want to make public. Make those sections of your project public, and if you need to reorganize any parts of your project to accomplish that, please do that now.
 
-[shared project]
+![shared project]
 
 ## Increasing discoverability
  
@@ -52,7 +52,7 @@ Finally, information that has been registered on the OSF is discoverable through
 
 We want to try and make our work as discoverable, so we want to make sure we understand how are work is being searched. Currently, the search on the OSF will search through contents in the wiki, project/component names, and tags. But it won’t search through individual files. So, if you think there are a few important key words that people might use to search for your project that don’t appear in the wiki or project name, where do you put this information? We can add `tags` to our project to make it more discoverable. You’ll notice this ‘tags’ area to the right of the screen. I can put whatever descriptors or keywords in here that I want to make it easier to discover my project for searching for related words/topics. 
 
-![tags]
+![tags](Sharing_figs/tags.png)
 
 
 > Activity: And add some tags that you think might be relevant to your project.
