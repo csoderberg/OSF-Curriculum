@@ -79,3 +79,7 @@ For non-text files, the procedure is a little different. You’ll open the file 
 Now that I’ve shown the ways version control works on the system, I want you all to edit your projects. Two of you, if you could go into the wiki and update it so that it reflects that analyses you actually performed. One of you who didn’t run the analyses, if you go could look at the analysis script that was uploaded, and edit it to make sure that it is clearly commented. How you do this will depend on the exact way in which the file was uploaded. If you don’t know how to comment in the particular language the analysis was done, ask the person who did the analyses.
 
 > Activity: update wiki to reflect analyses done & clearly comment analysis scripts
+
+The final thing we want to do is make sure that we give our future selves and, potentially, other people information about how to navigate our project. So, what are our files, where can we find things, if information is missing or private, why? Basically, we want to create a README for the project. We’ve already done a bit of this by putting information about the research question for the project in the wiki for the overall project. But, we also want to add information there, and/or in the wikis of our subcomponents about what files are there and how to navigate through the project. 
+
+> Activity: update wiki to include navigational README for the project
