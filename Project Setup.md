@@ -42,7 +42,7 @@ If you are a acting as a graduate student or RA in your group, go ahead and type
 > Activity(Question): What are GS & RAs seeing after typing in GUID?
 
 
-If you aren’t a PI, you should be seeing a screen telling you that you don’t have access to the project. That’s because all project on the OSF are set to `private` as a default. This means that only people who have been added as `contributors` to the project have access to it and can see and/or edit it. Right now, the PI is the only contributor on the project because they created it.  Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the `sharing` tab and click on that, this is how you can add people as contributors.
+If you aren’t a PI, you should be seeing a screen telling you that you don’t have access to the project. That’s because all projects on the OSF are set to `private` as a default. This means that only people who have been added as `contributors` to the project have access to it and can see and/or edit it. Right now, the PI is the only contributor on the project because they created it.  Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the `sharing` tab and click on that, this is how you can add people as contributors.
 
 ![Sharing tab](Project_figs/Sharing_tab.png)
 
