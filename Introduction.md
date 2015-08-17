@@ -1,9 +1,10 @@
 # Introducing the Problem
 
 ## Learning objectives
-* Understand the current issues and barrier to reproducibility
-* Understand why the whole workflow is important
-* Understand documentation/organizational issues underpinning this
+By the end of this introductory section, particpants should be able to:
+* Provide three examples of how current practices in science lead to lower than expected levels of reproducibility
+* Create an ideal workflow using open science principals
+* Describe how each step in the workflow addresses at least one problem that results from a typical scientific workflow
 
 ## What is the problem?
 
