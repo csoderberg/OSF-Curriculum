@@ -1,15 +1,15 @@
 # Introducing the Problem
 
 ## Learning objectives
-* Understand the current issues and barrier to reproducibility
+* Understand the current issues and barriers to reproducibility
 * Understand why the whole workflow is important
-* Understand documentation/organizational issues underpinning this
+* Understand documentation/organizational issues underpinning reproducibility 
 
 ## What is the problem?
 
-Researchers often have three broad goals for there work. The first is that they are interested in studying innovative ideas; they want to discover new things about how the world works. Second, they are interested in producing reproducible results; they want to be able to find there results again, and they want others to be able to find them as well. Finally, they want to build off their own and others work and in order to accumulate knowledge over time; they want research to move our understanding of the work forward. 
+Researchers often have three broad goals for their work. The first is that they are interested in studying innovative ideas and want to discover new things about how the world works. Second, they are interested in producing reproducible results; they want to be able to find their results again, and they want others to be able to find them as well. Finally, researchers want to build off both their own and the work of others in order to accumulate knowledge over time; they want research to move our understanding of the work forward. 
 
-All three of these ideals are suppose to be embodied in the published, peer-reviewed scientific literature. That is where science accumulates knowledge and is the store of what is ‘known’. So, we would hope that the published literature embodies these three ideals of novel discoveries, reproducibility, and tracking the accumulation of knowledge. However, over the past few years there has been a growing concern that many of the findings in the published literature may not replicate. There is evidence from a broad range of fields, including cancer biology, psychology, and political science, that the published literature may not be as reliable as we would hope. Now, in the last few years there have been a few very high profile fraud cases, but that’s is not the major problem. What were going to be talking about today are standard research practices that lead scientists to produce research that is more difficult to reproduce and replicate, thus leading to generally low levels of replicability. 
+All three of these ideals are supposed to be embodied in the published, peer-reviewed scientific literature – the place where scientific knowledge is accumulated and built upon. We want to believe that the published literature embraces these three ideals of novel discoveries, reproducibility, and tracking the accumulation of knowledge. However, over the past few years there has been increasing concern that many research findings across fields (e.g. cancer biology, psychology, and political science) in the published literature may not be as reliable as we would hope. Though there have been several high profile fraud cases the last several years, this is typically not a widespread problem. What we will talk about today are standard research practices that lead scientists to produce research that is more difficult to reproduce and replicate, thus leading to generally low levels of replicability. 
 
 
 ## What is Reproducibility?
