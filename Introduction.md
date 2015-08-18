@@ -44,14 +44,14 @@ So, learning about and implementing more reproducible practices will help both s
 
 ## What will happen in this workshop?
 
-In this workshop, we’ll be talking about ways to increase the documentation and transparency of your workflow, and learning tools that will help you to implement these changes. To do this, we’re all going to be working through an example study in simulated research groups of a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent research project from start to finish in order to learn good project management practices and use of the OSF. At the end of the workshop we’ll also be sharing the projects we’ve built with each other so we can see how well others can understand what we’ve done. 
+In this workshop, we will be talking about ways to increase the documentation and transparency of your workflow along with learning about tools that can help you implement these changes. To accomplish this, we will be working through an example research study in simulated research groups that contain a PI, graduate student, and research assistant. Collectively, you’ll work on building an open, transparent research project from start to finish in order to learn good project management practices while using the Open Science Framework (OSF). At the end of the workshop we will also share the projects we’ve built so that we can see how well others understand the work we have done. 
 
 ## Group set-up
-So, to start off, lets count off in 3s. If you don’t have a computer with you, say ’skip’ and look on with one of the groups on either side of you. These will be your groups. All the 1s will be the PIs, all the 2s with be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, it’s not going to have a huge impact on what you do today, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
+To start off, let's count off in 3s. If you don’t have a computer with you, say ’skip’ and look on with one of the groups on either side of you. These will be your groups. All the 1s will be PIs, all the 2s will be graduate student collaborators, and all the 3s will be research assistants. Don’t worry too much about your role, as it will not have a huge impact on what you do today, but if you feel uncomfortable in your role and you want to switch with someone else in your group that is fine.
 
 > Activity: Count off in 3s for group creation
 
-Also, as I mentioned we’ll be working with the OSF during this workshop. So, if you don’t already have an OSF account, please go ahead and set-up one. If you go to [visit OSF](https://osf.io) you can either create an account, or sign-in if you already have one. If you are creating an account, an email will be sent to your email to verify your account.
+Also, as I mentioned we will be working with the OSF during this workshop. If you don’t already have an OSF account, please go ahead and set-up one. If you go to [visit OSF](https://osf.io) you can either create an account, or sign-in if you already have one. If you are creating an account, an email will be sent to your email to verify your account.
 
 > Activity: Sign-up or login to [visit OSF](https://osf.io)
 
