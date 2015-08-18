@@ -27,13 +27,13 @@ Since we don’t have any projects yet will be only working on one research proj
 ![Creating a project](Project_figs/creating_project.png)
 
 
-If you’re a PI, you should now be seeing something that looks similar to my screen. If you aren’t a PI, you can follow along on my screen for the moment. This is the `project overview page`. Any project you create on the site will start out basically looking like this, and then you can customize it to fit the needs of that particular project or workflow. The system was built to be very discipline agnostic, which is why projects start out so bare. 
+If you are a PI, you should now see something that looks similar to my screen. If you aren’t a PI, you can follow along on my screen for the moment. This is the `project overview page`. Any project you create on the site will start out looking similar to this. You can then customize it to fit the needs of your particular project or workflow. The system was built to be very discipline agnostic, which is why projects start out so bare. 
 
-The `project overview page` has a few different sections. The `wiki` is a collaborative editing space that you can use to include important overview information about the project, things like READMEs, abstracts, research questions, outlines, etc. The `file tree` is how you upload and navigate to files to the system; you can upload basically any type of file that you want, everything from CSVs to word documents, to power points, to image and video files. The `component` section is how you add additional structure and nesting to your project, we’ll talk more about that later, and then there is the `citation` widget, which shows you the automatically generated citation for the project:
+The `project overview page` has a few different sections. The `wiki` is a collaborative editing space that you can use to include important overview information about the project, including things like READMEs, abstracts, research questions, outlines, etc. The `file tree` is how you upload and navigate to files in the system; most file types are accepted such as CSVs, Word documents, PowerPoint slides, PDFs, and image video files. The `component` section is how you add additional structure and nesting to your project (we will talk more about this later). You will also see the `citation` widget, which displays the automatically generated citation for the project:
 
 ![Project overview page intro](Project_figs/project_overview.png)
 
-At the top of the screen, you’ll notice a little 5 letter string at the end of the osf.io url. This entire address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will point back to it unless the project is deleted. 
+In your brower's search bar, you will notice a 5 letter string at the end of the osf.io url. This entire web address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will always point back to it unless the project is deleted. 
 
 
 ## Giving contributors access
