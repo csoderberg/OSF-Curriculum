@@ -38,34 +38,34 @@ In your brower's search bar, you will notice a 5 letter string at the end of the
 
 ## Giving contributors access
 
-If you are a acting as a graduate student or RA in your group, go ahead and type in the GUID of the project your PI created.
+If you are the graduate student or RA in your group, go ahead and type in the GUID of the project your PI created.
 
 > Activity(Question): What are GS & RAs seeing after typing in GUID?
 
 
-If you aren’t a PI, you should be seeing a screen telling you that you don’t have access to the project. That’s because all projects on the OSF are set to `private` as a default. This means that only people who have been added as `contributors` to the project have access to it and can see and/or edit it. Right now, the PI is the only contributor on the project because they created it.  Since we want this to be a collaborative project, we need to give the other two members of your teams access to the project. If you go up to the `sharing` tab and click on that, this is how you can add people as contributors.
+If you aren’t a PI, you should see a screen that says you don’t have access to the project. This occurs because all projects on the OSF are set to `private` as a default. As such, only people who have been added as `contributors` to the project have access to it and can see and/or edit it. On our example project, the PI is so far the only contributor because he/she created it.  Since we want this to be a collaborative project, we need to give the other two members of your team access to the project as well. The way you add your team members as contributors is by going to the `sharing` tab and clicking. 
 
 ![Sharing tab](Project_figs/Sharing_tab.png)
 
-I can search for people who I want to add as collaborators, then click the + icon to add them to the project. 
+Here, I can search for people who I want to add as collaborators, then click the + icon to add them to the project. 
 
 ![Searching for Contributors](Project_figs/contributor_search.png)
 
-You’ll notice that each person is given a permission setting for access to the project. There are three possible settings, `admin`, `read + write`, and `read`. Read access means the contributor can see into the project and can download any files they want, but they will not be able to add any files or modify any content. Contributors with Read + Write access have additional capabilities to add and modify files, but they can’t change any of the settings on the project (so for example they can’t add new contributors or change the privacy settings on the project). An administrator can do anything to the project and files. I can assign different permission settings to different contributors if I need to.
+You will notice that each person is given a specific permission setting for access to the project. There are three possible settings, `admin`, `read + write`, and `read`. Read access means the contributor can see into the project and download any files they want, but they will not be able to add files or modify content. Contributors with Read + Write access have additional capabilities to add and modify files, but they cannot change any of the settings on the project. For example, they cannot add new contributors or change the privacy settings on the project. Administrator access allows a contributor to do anything with the project and files. I can assign different permission settings to different contributors if I need to.
 
 ![Altering permission settings for contributors](Project_figs/contributor_permissions.png) 
 
-PIs, go ahead and add your graduate student and RA collaborators to your project. You can decide what level of access you want to give them, but keep in mind that later on both are going to need the ability to upload files.
+PIs, go ahead and add your graduate student and RA collaborators to your project. You can decide what level of access you want to give them, but keep in mind that later on both will need the ability to upload files.
 
 > Activity: PIs add other groups members as contributors
 
-Grad students and RAs, if you try the GUID again, you should now be able to see the project page. Is everyone seeing their project page?
+Grad students and RAs, if you try the GUID again, you should now be able to see the project page. Does everyone see their project page?
 
-If we now go back to the project overview page, you’ll notice that all three people are listed as contributors on the project, and that they are all now also listed in the auto generated citation for the project.
+If we now go back to the project overview page, you’ll notice that all three people are listed as contributors on the project and they are also listed in the auto generated citation for the project.
 
 ![How citation info has changed](Project_figs/contributor_citation.png)
 
-If for some reason you wanted to give someone access to the project but did not want to give them authorship credit, perhaps your RA needs access to the project but you don’t generally give your RAs authorship, just acknowledgements, you can do this by going back to the ‘sharing’ screen and unchecking the ‘bibliographic contributor’ box next to that person’s name.
+If you wanted to give someone access to your project but did not want to give them authorship credit, you can do this via the 'sharing' tab as well. Perhaps your RA needs access to your project but you typically give your RAs acknowledgements rather than authorship; you can uncheck the ‘bibliographic contributor’ box next to that person’s name on the 'sharing' page.
 
 ## Creating a wiki
 
