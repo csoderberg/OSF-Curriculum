@@ -1,16 +1,17 @@
 # Setting up a collaborative space
 
 ## Learning objectives
-* Understand how to set up a centralizer location for project storage/management
+* Understand how to set up a centralized location for project storage/management
 * Understand the purpose and use of the wiki
 * Understand use and importance of subfolder/subcomponent organization
 
 
 ## Materials Overview
-Hopefully you all had a chance to skim over some of the files I emailed to you yesterday. These are a very small subsection of materials from the 2012 Annual National Election Survey in the US, which we’ll be using as our example materials for the workshop today. Don’t worry, you won’t need to know anything about politics or US elections; it’s just a dataset that can be easily understood no matter what your scientific discipline or level of experience, so it should allow us to all collaborate even if you’re in a group with people from very different scientific fields. 
+Hopefully you all had a chance to skim over some of the files I emailed to you yesterday. The files are a small subsection of materials from the 2012 Annual National Election Survey in the US, which we will be using as our example materials for today's
+workshop. Don’t worry, you don't need to know anything about US politics or elections; it is simply a dataset that can be easily understood no matter what your scientific discipline or level of experience is. It will allow all of us to collaborate even if you are in a group with people from a variety of scientific fields. 
 
 
-I emailed all the materials to you this morning. If you open up the filed called, ‘Questionnaire’, you’ll notice that there are about 12 different questions that were asked of respondents (this is a very small subsample of the questions from the actual survey). So, over the course of the workshop, what is going to happen is that each group will decide amongst themselves, from the available materials, what there research question will be, the variables they want to use, the analyses they want to do, how they want to build and structure there project, and how open they would like the project to be at the end. 
+I emailed you the materials this morning. If you open up the filed called, ‘Questionnaire’, you’ll notice that there are about 12 different questions that respondents were asked to answer were (this is a very small subsample of the questions from the actual survey). Over the course of this workshop, each group will decide amongst themselves, from the available materials, what their research question will be, variables they want to use, analyses they want to perform, how they want to build and structure their project, and how open they would like the project to be at the end. 
 
 
 ## Creating a project
