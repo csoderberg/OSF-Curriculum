@@ -87,23 +87,23 @@ Right now our project is pretty flat. It is basically one big folder with some b
 
 ![Adding a component](Project_figs/create_component.png)
 
-Once the component is created, we can go into it and see that the inside of all components looks just like an empty project; they have their own file trees, wikis, contributor lists, and privacy settings. We can also nest components within components. So, components are a way to organize different types of files in a project, but they also allow you to set up areas that have different privacy settings or contributor lists from other sections in the project, which can be important for having fine grained control over access to different parts of a project.
+Once the component is created, we see that its structure is the same as the higher level project we created earlier. Components have their own file trees, wikis, contributor lists, and privacy settings. We can also nest components within components. Components are a way to organize different types of files in a project, while also allowing you to set up areas that have different privacy settings or contributor lists from other sections in the project. This can be important for having fine grained control over access to different parts of a project.
 
 ![Seeing inside the resulting component](Project_figs/inside_component.png)
 		
 
-Folders are another organization option that function a bit differently. A folder is literally just a way to group a set of files, nothing more. So, if we click on the OSF storage icon you’ll notice that a `create folder` button will appear. 
+Folders are another organization option that function differently than components. A folder is simply a way to group files. If we click on the OSF storage icon you’ll notice that a `create folder` button will appear. 
 
 ![Creating a folder](Project_figs/creating_folder1.png)
 
-If we do this, a folder will appear which he can then name whatever we want. 
+We can name this folder what ever we like. 
 
 ![Creating a folder](Project_figs/creating_folder2.png)
 
-However, if you click on the folder, it will just expand; you won’t be taken into the folder and it doesn’t have a wiki or it’s own access settings; the access settings are the same as the project/component is under. So, folders are just about organizing files together, while components are good for setting up large sections of a project.
+If you click on the folder, it will only expand - you won’t be taken into the folder and it doesn’t have a wiki or it’s own access settings. Access settings are the same as the project/component it is nested under. Therefore, folders help organize files, while components help set up large sections of a project.
 
 ![Resulting project structure](Project_figs/project_structure.png)  
 
-Now that I’ve explained the difference between components and filers, I’ll give you a bit of time to set up some initial structure for your project. You can set it up however you want, there isn’t necessarily a right or wrong answer. Also, you can always move things if you initially set it up in one way and your realize that it would be better to set it up in another way later on. Just think through what are the major categories of file types you’ll have, and whether you might want to have different contributors or public vs. private access setting for them to determine whether you want to set them up as folders or components.
+Now that I’ve explained the difference between components and files, we can work on giving our projects some structure. There are no right or wrong ways to set up your project, and you can always rearrange things later on if you determine a better way to organize your work. Think through the major categories of file types you might have (i.e. hypoetheses, methods, data), and whether you might want to toggle the public/private settings (i.e. perhaps you only want to make your hypotheses and methods public). You can also change your contributors' access (i.e. you may want your RA to have only read access to your data). Finally, determine whether you want to set them up as folders or components.
 
 > Activity: Create project structure using folders/components
