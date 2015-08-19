@@ -4,13 +4,13 @@
 ## Learning Objectives
 * Understand the motivations for open sharing
 * Understand important considerations before making data public
-* Understand how to make research findable	
+* Understand how to make your research discoverable	
 * Understand how to get credit for your work
 
 
 ## Why share?
 
-Now that we’ve created our project, uploaded all our materials, documented our entire process, we’re at the point where we need to decide if we want share our work, and if so what parts of it do we want to share? There are many different reasons why you might want to share your work. Many funder and some journals now require that data and code be shared upon publication or the conclusion of a grant. Additionally there is evidence to suggest that papers with open data get cited more than papers that do not. Finally, sharing materials and data makes it easier for others to try and reproduce your work, and to build off your work. So, there are both internal and external reasons that may motivate sharing some or all of your research products. 
+Now that we have created our project, uploaded all the materials, and documented our workflow, we need to decide if we want share our work, and if so what parts of it do we want to share? There are many different reasons why you might want to share your work. Many journals and funders now require that data and code be shared upon publication or at the conclusion of a grant. Additionally, there is evidence to suggest that papers with open data get cited more often than papers that do not. Finally, sharing materials and data make it easier for others to try to reproduce and build off your work. Therefore, there are both internal and external reasons that may motivate researcher to share some or all their research.
 
 ## Sharing
 
