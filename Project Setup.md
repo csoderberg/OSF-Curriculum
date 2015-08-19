@@ -69,12 +69,12 @@ If you wanted to give someone access to your project but did not want to give th
 
 ## Creating a wiki
 
-Now that you have a project and everyone has access, the first thing to do is start to write down a bit of information about the project, like why we’re doing the project, what our initial research question is, etc. By documenting this upfront, it will be very easy for us to always go back and see how the project started out, as it evolves over the course of the research lifecycle. Depending on how exploratory or confirmatory the study is, this section may start our pretty loose or very detailed. On the OSF, a good place to put this type of information is in the wiki. The wiki is a real time collaborative editor, so your whole team can work on it at once. It also can be formatted using markdown if you want to get fancy. You get into the wiki by clicking on the widget, and then click on the ‘edit’ button in the upper right to open up the editor. 
+Now that you have created a project you and your group members can access, the next thing to do is to write down some information about the project - such as the purpose of the project, our initial research question, etc. As the project evolves over the course of the research lifecycle, documenting this information upfront will make it easy for us to always go back and see how the project started out. Depending on how exploratory or confirmatory the study is, this section can also start out pretty loose or very detailed. On the OSF, a good place to put this type of information is in the wiki. The wiki is a real-time, collaborative editor, meaning your whole group can work on it at once. It can also be formatted using markdown if you want to get fancy. Access the wiki by clicking on the widget and then clicking on the ‘edit’ button in the upper right corner. This will open up the text editor. 
 
 
 ![Adding wiki content](Project_figs/wiki_editing.png)
 
-Lets have you all take a minute to set up a wiki for the project. So, take a few minutes to discuss amongst your group what you are interested in looking at in the ANES dataset I gave you, then collaboratively enter your research question and hypotheses, if you have them, into the wiki. 
+Let's have you take a minute to set up a wiki for your project. Take a few minutes to discuss amongst your group what you are interested in looking at with regards to the ANES dataset I gave you. Then, collaboratively enter in your research question and hypotheses (if you have them).
 
 > Activity: Create wiki with RQ and hypothesis
 
@@ -83,7 +83,7 @@ Lets have you all take a minute to set up a wiki for the project. So, take a few
 
 ![Current project structure](Project_figs/post_wiki_project.png)
 
-Right now our project is pretty flat. It is basically just one big folder with a wiki with some basic content in it. For most projects, we’ll want to add some structure by adding sections to organize related files, for example we might want to organize all our data files together and separate those from files related to protocols or study materials. If we had set up a project for a lab group or an institution, you might imaging having separate sections for each person in the lab, or each line of research. You can do this in two ways on the OSF depending on your preference. The major way to add structure to a project is to add `components`. You do this by clicking the `add component` button on the right of the screen. You can name the component whatever you want (materials, data, protocol, IRB, etc.) and you can also give it a category. 
+Right now our project is pretty flat. It is basically one big folder with some basic content entered in the wiki. For most projects, we will want to create structure by adding sections to organize related files. For example, we might want to organize all our data files together and keep those files separate from protocols or study materials. If we had set up a project for a lab group or an institution, you might have separate sections for each person in the lab, or each line of research. On the OSF, You can do this in two ways depending on your preference. The first way to add structure to a project is to add `components`. You do this by clicking the `add component` button on the right of your screen. You can name the component whatever you want (materials, data, protocol, IRB, etc.) and you can also choose a category. 
 
 ![Adding a component](Project_figs/create_component.png)
 
