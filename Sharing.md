@@ -70,4 +70,12 @@ Additionally, if we go to the statistics tab, we can see how many people are vie
 
 [statistics page view]
 
-* Recap of general things they’ve learned
+## Recap
+
+You've hopefully learned a lot so far. We've covered big issues like reproducibiity and open science, and practical tools on the OSF that were created to address those issues. Take a few minutes to write down the following information:
+* What you've learned about the problem of reproducibility
+* How open science can address those problems
+* Tools in the OSF that facilitate openness
+* Questions you have about either openess or the OSF
+* Your own next steps: what you'd like to bring to your colleagues.
+* Comments: we are an open source community and are constantly looking for ways to improve science and the OSF
