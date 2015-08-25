@@ -40,6 +40,8 @@ Why should we ultimately care about low levels of reproducibility? Low levels of
 
 Low levels of reproducibility also have an impact closer to home. Specifically, it can make the work in your own lab less efficient. Labs are transient; one graduate student starts a project, leaves, and another graduate student tries to pick up or extend upon their project. Or perhaps you submit a paper for review. 6 months later the editor asks you for new analyses, so you have to search for your data and analyses again. Both scenarios are contingent on knowing where all your research is and being diligent about the transfer and organization of knowledge within your lab. In general, researchers don't do this well at the moment, therefore our current practices make it hard for us to replicate and build off our own work, often leading to a waste of time and lab resources. 
 
+Current best practices to address some of these issues include physical or electronic lab notebooks used by members of the lab to document data collection, ideas, possible dead-ends... basically anything that goes on in the lab. Lab notebooks are great, we encourage their use, but they only address some of the issues that you'll learn about today. 
+
 Learning about and implementing more reproducible practices will help both your own work and science as a whole. 
 
 
