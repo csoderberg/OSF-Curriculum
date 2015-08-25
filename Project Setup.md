@@ -33,7 +33,7 @@ The `project overview page` has a few different sections. The `wiki` is a collab
 
 ![Project overview page intro](Project_figs/project_overview.png)
 
-In your brower's search bar, you will notice a 5 letter string at the end of the osf.io url. This entire web address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will always point back to it unless the project is deleted. 
+In your brower's search bar, you will notice a 5 letter string at the end of the osf.io url. This entire web address is a GUID, or a 'Globally Unique Identifier.' This permanent, unique identifier has been assigned to this project page and will always point back to it unless the project is deleted. 
 
 
 ## Giving contributors access
