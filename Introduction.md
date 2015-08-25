@@ -2,7 +2,7 @@
 
 ## Learning objectives
 * Understand the current issues and barriers to reproducibility
-* Understand why the whole workflow is important
+* Understand how the complete scientific workflow can affect reproducibility
 * Understand documentation/organizational issues underpinning reproducibility 
 
 ## What is the problem?
