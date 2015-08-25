@@ -58,7 +58,7 @@ Part of making our work discoverable is making sure the right people find it thr
 
 ## Getting credit
 
-So a big part of academia and the job market is being able to show that your work has impact. The classic way many fields often talk about this is citation counts. Now, we know this isn’t a great metric, particularly for newer papers, but since there is still a heavy emphasis places on it, we want to make sure that whatever we make open can be cited by other people who used it. We talked before about how you can get DOIs for your work through public registrations. Every project and component on the OSF also has an automatically generated citation which uses the GUID of the page, so as long as you have the correct contributor list on your project, everyone can get credit for it.
+A big part of academia is being able to show that your work has impact. The classic way most fields often talk about this is through the number of citations an author has. Though this may not be the most effective method, there continues to be heavy emphasis on citation counts.  Therefore, the OSF allows our work to be cited by others. As previously mentioned, you are able to get DOIs/ARKs through public registrations on the OSF. Additionally, every project and component on the OSF also has an automatically generated citation using the GUID of the page. As long as you have the correct contributor list on your project, everyone can get credit for it.
 
 [citation widget]
 
