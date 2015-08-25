@@ -16,10 +16,13 @@ All three of these ideals are supposed to be embodied in the published, peer-rev
 
 Before we go any further, I want to define what I mean when I say reproducibility. This is a broad term that has been used by many different people to mean different things, so I want to make sure we’re all on the same page. 
 
+####Computational Reproducibility
 One way in which a study can be reproducible is if you took a researcher's data and code/analysis scripts and reran exactly what they did, you would be able to reproduce the same numbers that have been reported in their research paper. This is sometimes called `computational reproducibility` and might sound rather simple, but can be surprisingly tricky to achieve. For example, the Quarterly Journal of Political Science requires that all submitted articles also submit a ‘replication package,’ which includes all the data and code required to replicate the numbers mentioned in the articles. These are then subjected to internal review. Over the last two years, 14 of the 24 empirical papers, or 58 percent, subjected to this review showed differences between the results reported in the paper and the results obtained from the internal review.
 
+####Empirical Reproducibility
 Another type of reproducibility is the question of whether we can reproduce what was done. So, do we have enough information to rerun the experiment or survey the way it was originally conducted? This is sometimes referred to as `empirical reproducibility`.
 
+####Replicability
 Finally, there is the question of whether we have enough information to completely reproduce the study's protocol, the analyses, and run them on an independent data set. Would we come to the same statistical conclusions as the original study? This is often referred to as the `replicability` of the study.
 
 All three of these points are important, and you’ll notice we can’t even attempt the third type without the first two types. We want the results of studies to be reproducible and findings to replicate. For this workshop, we will be talking about things you can do that help increase all three types of reproducibility with the end goal of making scientific studies more reproducible and findings more replicable.
