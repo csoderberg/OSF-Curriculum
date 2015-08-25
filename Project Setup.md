@@ -29,11 +29,11 @@ Since we don’t have any projects yet will be only working on one research proj
 
 If you are a PI, you should now see something that looks similar to my screen. If you aren’t a PI, you can follow along on my screen for the moment. This is the `project overview page`. Any project you create on the site will start out looking similar to this. You can then customize it to fit the needs of your particular project or workflow. The system was built to be very discipline agnostic, which is why projects start out so bare. 
 
-The `project overview page` has a few different sections. The `wiki` is a collaborative editing space that you can use to include important overview information about the project, including things like READMEs, abstracts, research questions, outlines, etc. The `file tree` is how you upload and navigate to files in the system; most file types are accepted such as CSVs, Word documents, PowerPoint slides, PDFs, and image video files. The `component` section is how you add additional structure and nesting to your project (we will talk more about this later). You will also see the `citation` widget, which displays the automatically generated citation for the project:
+The `project overview page` has a few different sections. The `wiki` is a collaborative editing space that you can use to include important overview information about the project, including things like READMEs, abstracts, research questions, outlines, etc. The `file tree` is how you upload and navigate to files in the system; most file types are accepted such as CSVs, Word documents, PowerPoint slides, PDFs, and image or video files. The `component` section is how you add additional structure and nesting to your project (we will talk more about this later). You will also see the `citation` widget, which displays the automatically generated citation for the project:
 
 ![Project overview page intro](Project_figs/project_overview.png)
 
-In your brower's search bar, you will notice a 5 letter string at the end of the osf.io url. This entire web address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will always point back to it unless the project is deleted. 
+In your browser's search bar, you will notice a 5 letter string at the end of the osf.io url. This entire web address is a GUID, or a permanent, unique identifier. This address has been assigned to this project page and will always point back to it unless the project is deleted. 
 
 
 ## Giving contributors access
@@ -83,7 +83,7 @@ Let's have you take a minute to set up a wiki for your project. Take a few minut
 
 ![Current project structure](Project_figs/post_wiki_project.png)
 
-Right now our project is pretty flat. It is basically one big folder with some basic content entered in the wiki. For most projects, we will want to create structure by adding sections to organize related files. For example, we might want to organize all our data files together and keep those files separate from protocols or study materials. If we had set up a project for a lab group or an institution, you might have separate sections for each person in the lab, or each line of research. On the OSF, You can do this in two ways depending on your preference. The first way to add structure to a project is to add `components`. You do this by clicking the `add component` button on the right of your screen. You can name the component whatever you want (materials, data, protocol, IRB, etc.) and you can also choose a category. 
+Right now our project is pretty flat. It is basically one big folder with some basic content entered in the wiki. For most projects, we will want to create structure by adding sections to organize related files. For example, we might want to organize all our data files together and keep those files separate from protocols or study materials. If we had set up a project for a lab group or an institution, you might have separate sections for each person in the lab, or each line of research. On the OSF, you can do this in two ways depending on your preference. The first way to add structure to a project is to add `components`. You do this by clicking the `add component` button on the right of your screen. You can name the component whatever you want (materials, data, protocol, IRB, etc.) and you can also choose a category. 
 
 ![Adding a component](Project_figs/create_component.png)
 
@@ -104,6 +104,6 @@ If you click on the folder, it will only expand - you won’t be taken into the 
 
 ![Resulting project structure](Project_figs/project_structure.png)  
 
-Now that I’ve explained the difference between components and files, we can work on giving our projects some structure. There are no right or wrong ways to set up your project, and you can always rearrange things later on if you determine a better way to organize your work. Think through the major categories of file types you might have (i.e. hypoetheses, methods, data), and whether you might want to toggle the public/private settings (i.e. perhaps you only want to make your hypotheses and methods public). You can also change your contributors' access (i.e. you may want your RA to have only read access to your data). Finally, determine whether you want to set them up as folders or components.
+Now that I’ve explained the difference between components and folders, we can work on giving our projects some structure. There are no right or wrong ways to set up your project, and you can always rearrange things later on if you determine a better way to organize your work. Think through the major categories of file types you might have (i.e. hypoetheses, methods, data), and whether you might want to toggle the public/private settings (i.e. perhaps you only want to make your hypotheses and methods public). You can also change your contributors' access (i.e. you may want your RA to have only read access to your data). Finally, determine whether you want to set them up as folders or components.
 
 > Activity: Create project structure using folders/components
