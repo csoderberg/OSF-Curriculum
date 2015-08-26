@@ -8,11 +8,15 @@
 	* Creating Registrations
 	* GUIDs/DOIs
 
-## Registrations
+## What is a registration?
 
-So I mentioned that part of the point of starting to document our research at the very beginning is so that we can track how the project changes across it’s lifecycle. This whole process is valuable, but there are also specific points in a projects life that may be particularly important and that we may want to freeze and always be able to go back to. For example, what the project looked like just before we started data collection (often called a pre-registration), or what the project looked like when it was accepted for publication are two points that we may want to easily be able to get back to, or easily share with others.
+So I mentioned that part of the point of starting to document our research at the very beginning is so that we can track how the project changes across it’s lifecycle. One way to keep track of these important points is to create `registrations`. A registration creates a frozen snapshot of a project, or section of a project, that can never be deleted or changed. So basically, it’s a permanent, read-only copy of that part of the project.
 
-One way to keep track of these important points is to create `registrations`. A registration creates a frozen snapshot of a project, or section of a project, that can never be deleted or changed. So basically, it’s a permanent, read-only copy of that part of the project.
+## Why register?
+
+This whole process is valuable, but there are also specific points in a projects life that may be particularly important and that we may want to freeze and always be able to go back to. For example, what the project looked like just before we started data collection (often called a pre-registration), or what the project looked like when it was accepted for publication are two points that we may want to easily be able to get back to, or easily share with others. 
+
+## How do you register a project?
 
 I am going to show how you go about registering a project. Do **not** follow along with this section, as registrations are not reversible. 
 
