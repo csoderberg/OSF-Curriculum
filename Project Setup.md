@@ -3,7 +3,7 @@
 ## Learning objectives
 * Understand how to set up a centralized location for project storage/management
 * Understand the purpose and use of the wiki
-* Understand use and importance of subfolder/subcomponent organization
+* Understand how the different ways folders and components can be used to organize a project
 
 
 ## Materials Overview
