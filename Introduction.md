@@ -2,7 +2,7 @@
 
 ## Learning objectives
 * Understand the current issues and barriers to reproducibility
-* Understand why the whole workflow is important
+* Understand why the complete scientific workflow affects reproducibility
 * Understand documentation/organizational issues underpinning reproducibility 
 
 ## What is the problem?
@@ -42,6 +42,8 @@ According to the research lifecycle, if I’m not in your lab, the only part of 
 Low levels of reproducibility and replicability are a problem for a number of reasons. One you may already be familiar with is that if findings of studies don't replicate, this may indicate that we don't have the knowledge we think we have. If we can’t reproduce the experiments that means we also can't check to see if the results will replicate. This makes it difficult to attempt to validate scientific knowledge, as it slows down the progress of science and potentially leads to wasted resources and poor decision making based on potentially non-replicable lines of research.
 
 Low levels of reproducibility also have an impact closer to home. Specifically, it can make the work in your own lab less efficient. Labs are transient; one graduate student starts a project, leaves, and another graduate student tries to pick up or extend upon their project. Or perhaps you submit a paper for review. 6 months later the editor asks you for new analyses, so you have to search for your data and analyses again. Both scenarios are contingent on knowing where all your research is and being diligent about the transfer and organization of knowledge within your lab. In general, researchers don't do this well at the moment, therefore our current practices make it hard for us to replicate and build off our own work, often leading to a waste of time and lab resources. 
+
+Lab notebooks are the most common method of addressing some of these concerns. However, relying soley on lab notebooks, whether physical or electronic, does not address every concern. Some labs are better than others when it comes to documenting procedures in lab notebooks, but most often we rely on lab notebooks for individual record and note keeping. By adopting best practices in open science, we can obtain all of the benefits of well-documented lab notebooks and more.
 
 Learning about and implementing more reproducible practices will help both your own work and science as a whole. 
 
