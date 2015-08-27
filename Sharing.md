@@ -44,9 +44,6 @@ Public project on the OSF are also indexed by Google, so they can also be discov
 
 ![daniel google search](Sharing_figs/lakens_google.png)
 
-Finally, projects that have been registered on the OSF is also made discoverable through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 50 different providers. Only public registrations will show up on SHARE, which is another important reason to register your research.   
-
-![share image]
 
 Part of making our work discoverable is making sure the right people find it through searching. Currently, the OSF searches through contents in the wiki, project/component names, and tags, but not individual files. If there are important key words associated with your research, you can put this information in the project title, wiki, or create tags. `Tags` also make our research more discoverable. You will find ‘tags’ to the right of your screen. You can enter various descriptors or keywords associated with your project in this space. 
 
