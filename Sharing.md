@@ -66,5 +66,3 @@ But, since citation counts have limitations, what else could we use to measure t
 Additionally, if we go to the statistics tab, we can see how many people are viewing the cite and where in the world they are viewing it from. So, these view and download numbers are telling a much more impressive story than the citations; a lot of people are interested this project because they find the materials useful.
 
 ![statistics page view](Sharing_figs/OSF_analytics.png)
-
-* Recap of general things they’ve learned
