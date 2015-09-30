@@ -4,7 +4,7 @@
 
 We’ve now gone through all the steps of creating a more reproducible research project and workflow. The question though is, can we recreate our thought process and analyses? As we talked about at the beginning, in many labs the actual test of this comes when you, or another lab member, go back to a project a few weeks or a few months later and try to figure out what you did. We can’t really wait for our own memories to decay, so we’ll use each other as stand-ins for our future selves who have probably forgotten a lot of details. So, go ahead and pair up with the group beside you, and share the URL for your projects. Look over each others projects. Take note of things they did well and things they could potentially do better.
 
-> Activity: Critique each others projects for transparency
+> Activity: Look over another groups project and critique the transparency/documentation
 
 Alright, hopefully you guys had time to get through each others projects. To kick things off I’ll say a few things about my own project that I did well, and a few things that I could have done better.
 
@@ -18,6 +18,9 @@ Alright, hopefully you guys had time to get through each others projects. To kic
 	* I have a private data subcomponent because, presumable, my IRB said that I couldn’t share the de-anonymized data. However, I don’t make a note of that anywhere. I could improve my documentation by noting that in the wiki.
 
 For the projects you looked over, what were other things that you noticed people doing well? Were there things you noticed that might have helped increase the documentation or transparency of the project?
+
+> Activity: Q&A depending on the feedback that comes in above.
+
 
 ## Take-aways
 
