@@ -37,8 +37,6 @@ When talking about issues of reproducibility, we aren’t talking about fraud. W
 
 ![research lifecycle](intro_figs/research_lifecycle.png)
 
-
-<<<<<<< HEAD
 According to the research lifecycle, if I’m not in your lab, the only part of this process that I can see is the final step; the published report. Even if I am in your lab, after about 6 months, I probably won’t remember what happened at these various steps anyway. So, again, all I will be left with is the published report. Similarly if it is my own research, I will at some point probably forget many of the details of those earlier steps and have to resort to using the publish report as a guide. 
 
 Using only the published report to draw conclusions can create several problems: 
@@ -75,8 +73,3 @@ To start off, let's count off in 3s. If you don’t have a computer with you, sa
 Also, as I mentioned we will be working with the OSF during this workshop. If you don’t already have an OSF account, please go ahead and set-up one. If you go to [visit OSF](https://osf.io) you can either create an account, or sign-in if you already have one. If you are creating an account, an email will be sent to your email to verify your account.
 
 > Activity: Sign-up or login to [visit OSF](https://osf.io)
-
-
-
-
-
