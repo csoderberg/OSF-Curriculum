@@ -26,7 +26,7 @@ One thing I could do would be to create another component under `Data` and move 
 
 > Activity: Now that I’ve shown you how to move files, discuss how much of your project you can/want to make public. Make those sections of your project public, and if you need to reorganize any parts of your project to accomplish that, please do that now.
 
-![shared project]
+![shared project](Sharing_figs/public_project.png)
 
 ## Increasing discoverability
  
@@ -34,7 +34,7 @@ All projects, subprojects/components, and files on the OSF have GUIDs. If I want
 
 Work posted on the OSF can be discovered in several ways. The first way is through the search function found on the OSF. We can search for anything we want such as a project title, general topic or person’s name, and the system will bring up anything related to our search.  
 
-![search example](Sharing_figs/osf_search.png)
+![search example](Sharing_figs/OSF_search.png)
 
 You’ll see it will also make suggestions about ways to potentially refine your search.
 
@@ -44,9 +44,6 @@ Public project on the OSF are also indexed by Google, so they can also be discov
 
 ![daniel google search](Sharing_figs/lakens_google.png)
 
-Finally, projects that have been registered on the OSF is also made discoverable through the SHARE notification service. If we go to ‘osf.io/share’, this will allow us to search through the contents of over 50 different providers. Only public registrations will show up on SHARE, which is another important reason to register your research.   
-
-![share image]
 
 Part of making our work discoverable is making sure the right people find it through searching. Currently, the OSF searches through contents in the wiki, project/component names, and tags, but not individual files. If there are important key words associated with your research, you can put this information in the project title, wiki, or create tags. `Tags` also make our research more discoverable. You will find ‘tags’ to the right of your screen. You can enter various descriptors or keywords associated with your project in this space. 
 
@@ -60,14 +57,14 @@ Part of making our work discoverable is making sure the right people find it thr
 
 A big part of academia is being able to show that your work has impact. The classic way most fields often talk about this is through the number of citations an author has. Though this may not be the most effective method, there continues to be heavy emphasis on citation counts.  Therefore, the OSF allows our work to be cited by others. As previously mentioned, you are able to get DOIs/ARKs through public registrations on the OSF. Additionally, every project and component on the OSF also has an automatically generated citation using the GUID of the page. As long as you have the correct contributor list on your project, everyone can get credit for it.
 
-[citation widget]
+![citation widget](Sharing_figs/citation_widget.png)
 
 But, since citation counts have limitations, what else could we use to measure the impact of our work? Well, two things we might be interested in are views and downloads. For all public projects we track how many people are visiting a page, and we track how often all files are downloaded. Now, your projects aren’t particularly old, so they probably won’t have very many views. But, if we search for ‘Daniel Lakens’ and click on this project, we can see how views and downloads can give vastly different information than citation counts. So, this is an OSF project associated with an article published in Frontiers, which is an open access journal. The paper and supplemental materials were also made publicly available on the OSF. Now, last time I check, this paper has had a bit under 100 citations, which isn’t bad, but it’s not a huge amount of impact. If we click on the files tab, that will allow us to see the download counts for all the files. You can see that the paper has been downloaded around 1500 times, which is a ton. 
 
-[download counts]
+![download counts](Sharing_figs/download_counts.png)
 
 Additionally, if we go to the statistics tab, we can see how many people are viewing the cite and where in the world they are viewing it from. So, these view and download numbers are telling a much more impressive story than the citations; a lot of people are interested this project because they find the materials useful.
 
-[statistics page view]
+![statistics page view](Sharing_figs/OSF_analytics.png)
 
 * Recap of general things they’ve learned
