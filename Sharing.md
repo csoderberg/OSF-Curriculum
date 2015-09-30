@@ -14,7 +14,6 @@ Now that we have created our project, uploaded all the materials, and documented
 * Many journals and funders now require that data and code be shared upon publication or at the conclusion of a grant. 
 * There is evidence to suggest that papers with open data get cited more often than papers that do not. (see [Piwowar et. al., 2007](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0000308))
 * Sharing materials and data make it easier for others to try to reproduce and build off your work. 
-* Openness is inherently tied to reproducibility. If other researchers disagree with your work, the onus is on them to find the flaws.
 
 Therefore, there are both internal and external reasons that may motivate researcher to share some or all their research.
 
