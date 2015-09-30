@@ -34,7 +34,7 @@ All projects, subprojects/components, and files on the OSF have GUIDs. If I want
 
 Work posted on the OSF can be discovered in several ways. The first way is through the search function found on the OSF. We can search for anything we want such as a project title, general topic or person’s name, and the system will bring up anything related to our search.  
 
-![search example](Sharing_figs/OSF_search.png)
+![search example](Sharing_figs/osf_search.png)
 
 You’ll see it will also make suggestions about ways to potentially refine your search.
 
