@@ -66,7 +66,7 @@ Now we want to start actually working on the project. Before, I had you all deve
 
 Alright, so now we have the static version of all these different files, but in real research, things often change over time. We need a way to easily track those changes. This tracking of different versions of a file is usually called ‘version control’. Often times people have their own ad-hoc version control procedures, such as:
 
-![poor version control]
+![poor version control](Document_figs/bad_version_control.png)
 
 Which is a complete mess. Poor version control can make finding files and recreating experiments/analyses very difficult, because in a few months it may take days for you to figure out, if you can at all, exactly what protocol was used, or exactly which analysis file was used to produce the results in the paper you submitted. So, we want to make sure this doesn’t happen to us. 
 
