@@ -2,7 +2,7 @@
 
 ## How did we do?
 
-We’ve now gone through all the steps of creating a more reproducible research project and workflow. The question though is, can we recreate our thought process and analyses? As we talked about at the beginning, in many labs the actual test of this comes when you, or another lab member, go back to a project a few weeks or a few months later and try to figure out what you did. We can’t really wait for our own memories to decay, so we’ll use each other as stand-ins for our future selves who have probably forgotten a lot of details. So, go ahead and pair up with the group beside you, and share the URL for your projects. Look over each others projects. Take note of things they did well and things they could potentially do better.
+We’ve now gone through all the steps of creating a more reproducible research project and workflow. If it worked, we should be able to recreate our thought process and analyses. As we discussed at the beginning, the actual test of this comes when you, or another collaborator or colleague, go back to a project a few weeks or a few months later and try to figure out what you did. We can’t really wait for our own memories to decay, so we’ll use each other as stand-ins for our future selves who have probably forgotten a lot of details. So, please pair up with the group beside you, and share the URL for your projects. Look over each others' projects. Take note of things they did well and things they could potentially do better so that you can quickly understand what they did and how they did it.
 
 > Activity: Look over another groups project and critique the transparency/documentation
 
@@ -14,17 +14,17 @@ Alright, hopefully you guys had time to get through each others projects. To kic
 	* I documented the basic ideas and rationals for the project so I will be aware if this changes overtime
 
 * Could do better
-	* My data files are SPSS files, so not everyone will be able to use them easily (and I might not be able to use them in the future). It would be be great if I also uploaded the data files as csv files so that I or anyone else would always be able to use them.
-	* I have a private data subcomponent because, presumable, my IRB said that I couldn’t share the de-anonymized data. However, I don’t make a note of that anywhere. I could improve my documentation by noting that in the wiki.
+	* My data files are SPSS files, so not everyone will be able to use them easily (and I might not be able to use them in the future) because SPSS format is proprietary and it is expensive software. It would be be great if I also uploaded the data in an open format such as csv files so that I or anyone else would always be able to use them.
+	* I have a private data subcomponent because, presumable, my IRB said that I couldn’t share the de-anonymized data. However, I don’t make a note of that anywhere. I could improve my documentation by noting that in the wiki.  Also, I could create a truly anonymous version of the data that can be public and then tell people how they can request the complete version of the datafile (e.g., once they have IRB approval to work with the data).
 
-For the projects you looked over, what were other things that you noticed people doing well? Were there things you noticed that might have helped increase the documentation or transparency of the project?
+For the projects you looked over, what were other things that you noticed people doing well? Were there things you noticed that might have helped improve the documentation or transparency of the project?
 
 > Activity: Q&A depending on the feedback that comes in above.
 
 
 ## Take-aways
 
-We covered a lot of information today, but you should think about this all on a continuum; reproducible research practices aren’t an all or nothing game. Even small improvements to organization and documentation can help increase the transparency and reproducibility of research. Some people will go for the full workflow overhaul straight out of the gate, others will make a series of small, incremental changes to their research processes. Both of these approaches are fine, it’s all about what works best to integrate the ideas we’ve talked about into your own workflow. That integration process will be different for different researchers. This process is also sometimes the hardest; figuring out how to apply examples to your particular issues can be challenging. So, before I open it up to questions I wanted to mention where you can get help after this workshop.
+We covered a lot of information today.  Reproducible research practices aren’t all or nothing. Even small improvements to organization and documentation can help increase the transparency and reproducibility of research. Some people will make a full workflow overhaul straight out of the gate, others will make a series of small, incremental changes to their research processes. Both of these approaches are fine, it’s all about what works best to integrating reproducible practices into your own workflow. Figuring out how to apply examples to your particular needs can be challenging. So, before I open it up to questions and discussion here is where you can get help after this workshop.
 
 ## Where to get help?
 
