@@ -1,4 +1,4 @@
-# Introducing the Problem
+# Introducing Reproducibility and Addressable Barriers to Achieving It
 
 ## Learning objectives
 * Understand the current issues and barriers to reproducibility
@@ -7,9 +7,9 @@
 
 ## What is the problem?
 
-Researchers often have three broad goals for their work. The first is that they are interested in studying innovative ideas; they want to discover new things about the world. Second, they are interested in producing reproducible results; they want to see their results as reliable, and they want others to be able to find them again. Finally, they want to build off their own and others' work and in order to accumulate knowledge over time; they want research to move our understanding of a topic forward. 
+Researchers try to figure out how the world works.  They do so by studying innovative ideas or interesting questions to discover new things about the world. Those new ideas or intriguing findings become credible if they are reproducible -- the results are reliable, and others can independently obtain the same evidence. Reproducible methods and evidence then facilitates others reuse or extension of those ideas to accumulate knowledge over time. 
 
-Published, peer-reviewed scientific literature is the store of what is "known," it is meant to embody these three ideals.  However, over the past few years there has been a growing concern that many of the findings in the published literature may not be replicable. There is evidence from a broad range of fields, including cancer biology, psychology, and political science, that the published literature may not be as reliable as we would hope. A few high profile cases of fraud, underline the issue, but they are not representative of the entire issue of reproducibility. This lesson is intended to cast light on seemingly standard research practices that are detrimental to scientific ideals. Though there have been several high profile fraud cases the last several years, such cases are much rarer than the headlines would suggest. Furthermore, the tools and practices we are going to talk about today are not designed to prevent intentional cases of scientific misconduct. What we will cover are standard research practices that lead scientists to produce research that is more difficult to reproduce and replicate, thus leading to generally low levels of replicability.  
+The published scientific literature is the store of what is "known," and is meant to embody these ideals of discovery, reproducibility, and accumulation of evidence.  However, there is evidence across many discipline that the published literature is not as reliable as we would hope. The reasons for this include methodological, statistical, and reporting practices that result in a published literature that provides evidence more beautiful and tidy than reality, and structural and organizational practices that result in unavailable, lost, or difficult to use data, code, and materials that interfere with scientific progress.  The tools and practices we are going to talk about today do not address intentional cases of scientific misconduct.  This lesson casts light on standard research practices that are detrimental to scientific ideals, and offers practical solutions to improve the reproducibility and ultimate impact of one's own work.    
 
 
 
