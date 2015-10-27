@@ -1,6 +1,6 @@
 #Workshop FAQ
 
-Below is a list of questions that have commonly come-up in past workshops. We’ve provided answers which you can use, together with the FAQ on the OSF website, to prepare for workshops. If there are questions that have commonly come up at workshops you’ve given, feel free to add them.
+Below is a list of questions that have commonly come-up in past workshops. We’ve provided answers which you can use, together with the [FAQ on the OSF website](https://osf.io/faq/), to prepare for workshops. If there are questions that have commonly come up at workshops you’ve given, feel free to add them.
 
 
 * **How many users does the OSF have?**
