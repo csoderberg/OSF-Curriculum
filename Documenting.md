@@ -32,6 +32,8 @@ Clicking register will take you to a registration page. There are a few differen
 
 If you are unsure which to select, just choose the ‘Open-ended Registration’. In the open-ended box, you can say why you are registering the project. This is important, as you can have multiple registrations of a project.  The description will help distinguish them.
 
+![Registration description](Document_figs/registration_description.png)
+
 Registrations must become public, but you can either make them public immediately or you can place them under embargo for up to four years. If you choose to embargo, the project will be immediately registered, but the registration will not be made public until after the embargo date that you specify. You can end an embargo early, but you cannot extend it further.
 
 ![Embargoing a registration](Document_figs/embargo_option.png)
