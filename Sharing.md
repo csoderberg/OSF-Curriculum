@@ -32,6 +32,10 @@ One thing I could do would be to create another component under `Data` and move 
 
 > Activity: Now that I’ve shown you how to move files, discuss how much of your project you can/want to make public. Make those sections of your project public, and if you need to reorganize any parts of your project to accomplish that, please do that now.
 
+I’ve decided to share the top level of my project, as well as my materials component. If I click on the `public` button on my project, that will show me all the sections of my project. I check that parts that I want to make public, in this case `Demo Project` and `Materials`
+
+![making public](Sharing_figs/make_public.png)
+
 ![shared project](Sharing_figs/public_project.png)
 
 ## Increasing discoverability
