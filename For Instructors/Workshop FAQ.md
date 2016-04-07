@@ -10,7 +10,7 @@ Below is a list of questions that have commonly come-up in past workshops. We’
   * We don’t have exact numbers for this, because users can tell us as much or as little about themselves as they want in their user profiles. However, anecdotal information suggests that the OSF have a strong user base in the social sciences. There are also growing user bases in the life sciences and earth sciences.
 
 * **Is there a cap on the amount of storage I get?**
-  * No, there is currently no limit on a user’s overall storage on the OSF. Individual files uploaded to OSF Storage cannot be larger than 128MB, but larger files can be connected to projects through 3rd party storage add-ons.
+  * No, there is currently no limit on a user’s overall storage on the OSF. Individual files uploaded to OSF Storage cannot be larger than 5GB, but larger files can be connected to projects through 3rd party storage add-ons.
 
 * **Can I add files or make changes to the wikis of registrations?**
   * No, registrations cannot be changed. If you wish to change a registration, you can either cancel the pending registration (if you are still within the 48 approval window) or you can make your changes to the project itself and create a new registration.
