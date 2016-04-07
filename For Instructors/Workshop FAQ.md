@@ -4,7 +4,7 @@ Below is a list of questions that have commonly come-up in past workshops. We’
 
 
 * **How many users does the OSF have?**
-  * As of October 12th 2015, the OSF has 13,414 users.
+  * As of April 7th 2016, the OSF has 20,960 users.
 
 * **What disciplines are OSF users from?**
   * We don’t have exact numbers for this, because users can tell us as much or as little about themselves as they want in their user profiles. However, anecdotal information suggests that the OSF have a strong user base in the social sciences. There are also growing user bases in the life sciences and earth sciences.
